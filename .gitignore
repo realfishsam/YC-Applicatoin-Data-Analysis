@@ -1,9 +1,5 @@
 *.DS_Store*
 data/nltk_data/
-output/
-data/raw/companies_htmls/
-data/raw/yc_applications.html
-data/processed/
 # Rosenblatt Labs Inc. Risk Management Policy — Startup Edition
 
 ## 1. Purpose and Scope

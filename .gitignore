@@ -1,0 +1,138 @@
+*.DS_Store*
+data/nltk_data/
+output/
+data/raw/companies_htmls/
+data/raw/yc_applications.html
+data/processed/
+# Rosenblatt Labs Inc. Risk Management Policy — Startup Edition
+
+## 1. Purpose and Scope
+
+This policy establishes a simple framework for identifying, assessing, and managing risks that could impact our quantitative trading platform. It is designed to be practical for our founding team while ensuring we take appropriate measures to protect our business, customers, and partners.
+
+This policy covers all operational areas of Rosenblatt Labs Inc., with particular focus on:
+- Trading system operations
+- Customer data and funds
+- Third-party service integrations
+- Regulatory compliance
+- Business reputation
+
+## 2. Risk Management Principles
+
+Our approach to risk management is guided by these principles:
+- **Simplicity** - Use straightforward processes that our small team can execute
+- **Integration** - Align with our Business Continuity Plan
+- **Proactivity** - Address risks before they materialize when possible
+- **Proportionality** - Match risk controls to the severity of potential impact
+- **Continuous Improvement** - Regularly review and enhance our approach
+
+## 3. Risk Categories and Ownership
+
+### Primary Risk Categories:
+1. **Operational Risks** - Issues affecting our trading platform functionality
+2. **Third-Party Risks** - Disruptions to Modal, Supabase, Alpaca.Markets, or Databento
+3. **Security Risks** - Threats to data, systems, or access controls
+4. **Financial Risks** - Challenges affecting customer funds or company finances
+5. **Compliance Risks** - Regulatory requirements and legal obligations
+
+### Risk Ownership:
+As a founding team, we share responsibility for risk management with the following focus areas:
+- **CEO** - Overall risk oversight, financial and strategic risks
+- **CTO** - Technical operational risks and security risks
+- **COO/Product Lead** - Third-party relationships and compliance risks
+
+## 4. Risk Assessment Process
+
+We will conduct risk assessments using this simplified process:
+
+### Quarterly Risk Review:
+1. Each founder identifies top 3-5 risks in their area of responsibility
+2. Team meets to discuss and consolidate risk list
+3. For each risk, document:
+   - Description of the risk
+   - Potential impact (High/Medium/Low)
+   - Likelihood (High/Medium/Low)
+   - Current controls in place
+   - Additional controls needed
+   - Risk owner
+
+### Risk Prioritization Matrix:
+```
+            │ Low Impact │ Medium Impact │ High Impact
+────────────┼────────────┼───────────────┼────────────
+High        │   Monitor  │  Significant   │   Critical
+Likelihood  │            │                │
+────────────┼────────────┼───────────────┼────────────
+Medium      │    Low     │    Monitor     │ Significant
+Likelihood  │ Priority   │                │
+────────────┼────────────┼───────────────┼────────────
+Low         │  Accept    │  Low Priority  │   Monitor
+Likelihood  │            │                │
+```
+
+## 5. Risk Treatment
+
+For each identified risk, we will select one or more of these treatment approaches:
+
+- **Avoid** - Eliminate the activity or condition creating the risk
+- **Mitigate** - Implement controls to reduce likelihood or impact
+- **Transfer** - Share risk through insurance or vendor agreements
+- **Accept** - Acknowledge the risk and monitor without additional controls
+
+All "Critical" and "Significant" risks must have a documented treatment plan.
+
+## 6. Key Risk Areas and Controls
+
+### Trading System Risks:
+- System outage during trading hours
+  - **Controls**: Refer to Business Continuity Plan, monitoring alerts, simple fallback version
+
+### Third-Party Risks:
+- Service provider outage (Modal, Supabase, Alpaca)
+  - **Controls**: Redundancy measures, contact information, manual verification procedures
+
+### Security Risks:
+- Unauthorized access to systems
+  - **Controls**: Secure authentication, access logging, regular credential rotation
+
+### Financial Risks:
+- Customer fund security
+  - **Controls**: Clear separation of customer funds, reconciliation procedures, audit trails
+
+### Compliance Risks:
+- Regulatory requirements for trading platforms
+  - **Controls**: Regular review of applicable regulations, clear documentation of compliance measures
+
+## 7. Monitoring and Reporting
+
+- Weekly team check-in to discuss any emerging risks
+- Monthly review of critical systems and controls
+- Quarterly formal risk assessment
+- Incident-triggered reassessment of related risks
+
+## 8. Risk Documentation
+
+We will maintain a simple risk register that includes:
+- Identified risks
+- Risk ratings
+- Control measures
+- Status of implementation
+- Review dates
+
+This register will be reviewed quarterly and updated as needed.
+
+## 9. Integration with Business Continuity
+
+This Risk Management Policy works in conjunction with our Business Continuity Plan. Risks identified through this policy may trigger updates to continuity procedures, while incidents addressed through the continuity plan may inform risk assessments.
+
+## 10. Policy Review
+
+This policy will be reviewed:
+- Annually at minimum
+- After any significant business change
+- Following any major incident
+- When onboarding new team members
+
+## Last Updated: April 2025
+
+**Contact**: [Founding Team Contact Information]

@@ -16,6 +16,7 @@ from visualization import (
     plot_normalized_response_length_by_question,
     plot_normalized_response_length_distribution
 )
+from data_export import export_all_data
 
 def ensure_output_dir():
     """Ensure output directory exists."""
@@ -92,6 +93,11 @@ def main():
     plot_normalized_response_length_by_question(common_questions)
     plot_normalized_response_length_distribution(successful_lengths, unsuccessful_lengths)
     
+    # Export data to CSV
+    export_all_data(data, successful_freq, unsuccessful_freq, successful_patterns, unsuccessful_patterns,
+                   successful_sentiment, unsuccessful_sentiment, successful_lengths, unsuccessful_lengths,
+                   common_questions)
+    
     print("Analysis complete! Results have been saved to the 'output' directory.")
     print("\nStandard visualizations:")
     print("  - top_words_comparison.png: Raw word frequencies")
@@ -109,6 +115,14 @@ def main():
     print("  - normalized_sentiment_patterns.png: Relative differences in sentiment patterns")
     print("  - normalized_response_length_by_question.png: Percentage differences in response lengths by question")
     print("  - normalized_response_length_distribution.png: Detailed response length distribution analysis")
+    
+    print("\nCSV data exports:")
+    print("  - word_frequencies.csv: Complete word frequency data")
+    print("  - language_patterns.csv: Language pattern metrics")
+    print("  - sentiment_patterns.csv: Sentiment analysis metrics")
+    print("  - response_lengths.csv: Individual response lengths")
+    print("  - response_by_question.csv: Response length statistics by question")
+    print("  - company_stats.csv: Company-level statistics")
 
 if __name__ == "__main__":
     main() 

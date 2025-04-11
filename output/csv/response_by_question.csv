@@ -1,0 +1,52 @@
+question,successful_avg_length,unsuccessful_avg_length,successful_count,unsuccessful_count,absolute_difference,percentage_difference
+When will you have a prototype or beta?,35.2,2.0,5,2,33.2,1660.0000000000002
+"For founders who can’t, why not? What level of commitment are they willing to make?",21.5,1.0,2,1,20.5,2050.0
+How long is your runway?,26.666666666666668,8.0,3,7,18.666666666666668,233.33333333333334
+"If we fund you, which of the founders will commit to working exclusively (no school, no other jobs) on this project for the next year?",18.818181818181817,2.0,11,5,16.818181818181817,840.9090909090909
+"Are any of the founders covered by noncompetes or intellectual property agreements that overlap with your project? If so, please explain.",19.05263157894737,3.9411764705882355,19,17,15.111455108359134,383.4249803613512
+"List any investments your company has received. Include the name of the investor, the amount invested, the premoney valuation / valuation cap, and the type of security sold (convertible notes, safes or stock).",21.75,10.25,4,4,11.5,112.19512195121952
+"If you have already participated or committed to participate in an incubator, ""accelerator"" or ""pre-accelerator"" program, please tell us about it.",20.857142857142858,13.133333333333333,14,15,7.723809523809525,58.81073241479334
+"If you have a demo, what's the url? Demo can be anything that shows us how the product works. Usually that's a video or screen recording.",7.7727272727272725,1.3333333333333333,22,15,6.4393939393939394,482.9545454545455
+How did you hear about Y Combinator?,13.6,8.076923076923077,10,13,5.523076923076923,68.38095238095238
+Do any founders have other commitments between X and Y inclusive?,10.222222222222221,6.166666666666667,9,6,4.0555555555555545,65.76576576576575
+What kind of entity and in what state or country was the entity formed?,6.6923076923076925,3.0,13,9,3.6923076923076925,123.07692307692308
+Please tell us in one or two sentences about something impressive that each founder has built or achieved.,87.76470588235294,85.0,17,7,2.764705882352942,3.252595155709344
+"Where do you live now, and where would the company be based after YC?",12.1,9.421052631578947,20,19,2.6789473684210527,28.435754189944134
+"Do any founders have commitments in the future (e.g. finishing college, going to grad school), and if so what?",11.454545454545455,10.4,11,5,1.0545454545454547,10.13986013986014
+Which category best applies to your company?,1.5833333333333333,1.2666666666666666,12,15,0.31666666666666665,25.0
+Do you have revenue?,1.0,1.0,15,12,0.0,0.0
+How many founders are on the team?,1.0,1.0,3,3,0.0,0.0
+"Have you incorporated, or formed any legal entity (like an LLC) yet?",1.0,1.0,13,14,0.0,0.0
+Are people using your product?,1.0,1.0,8,7,0.0,0.0
+Have you taken any investment yet?,1.0,1.0,1,3,0.0,0.0
+Is this application in response to a YC RFS?,1.0,1.0,8,9,0.0,0.0
+How much money do you spend per month?,1.0,1.0,3,5,0.0,0.0
+How much money does your company have in the bank now?,1.0,1.0,2,5,0.0,0.0
+Please enter the url of a 1 minute unlisted (not private) YouTube video introducing the founder(s). This video is an important part of the application. (Follow the Video Guidelines.),0.3157894736842105,0.35714285714285715,19,14,-0.04135338345864664,-11.57894736842106
+Which of the following best describes your progress?,1.4444444444444444,1.5,9,8,-0.05555555555555558,-3.7037037037037055
+Describe what your company does in 50 characters or less.,6.642857142857143,6.722222222222222,14,18,-0.07936507936507908,-1.1806375442739037
+"If yes, which one?",1.6,1.8,5,5,-0.19999999999999996,-11.111111111111107
+What convinced you to apply to Y Combinator? Did someone encourage you to apply?,58.54545454545455,59.357142857142854,11,14,-0.8116883116883074,-1.3674652663822267
+Is there anything else we should know about your company?,16.5,17.933333333333334,8,15,-1.4333333333333336,-7.992565055762083
+What's new about what you're making? What substitutes do people resort to because it doesn't exist yet (or they don't know about it)?,120.3030303030303,121.91304347826087,33,23,-1.610013175230577,-1.320624216487278
+What is your company going to make? Please describe your product and what it does or will do.,105.125,107.04545454545455,32,22,-1.9204545454545467,-1.7940552016985152
+We're interested in your revenue over the last several months. (Not cumulative and not GMV).,15.714285714285714,18.25,7,4,-2.5357142857142865,-13.894324853228968
+"Please describe the breakdown of the equity ownership in percentages among the founders, employees and any other stockholders. If there are multiple founders, be sure to give the equity ownership of each founder.",16.0,21.555555555555557,8,9,-5.555555555555557,-25.773195876288664
+Please tell us something surprising or amusing that one of you has discovered.,50.0,56.19047619047619,29,21,-6.19047619047619,-11.016949152542372
+"Please tell us about an interesting project, preferably outside of class or work, that two or more of you created together. Include urls if possible.",74.08,82.0,25,17,-7.920000000000002,-9.658536585365855
+"Who writes code, or does other technical work on your product? Was any of it done by a non-founder? Please explain.",20.227272727272727,30.944444444444443,22,18,-10.717171717171716,-34.63358903215277
+"Who are your competitors, and who might become competitors? Who do you fear most?",85.90322580645162,97.0,31,22,-11.096774193548384,-11.439973395410705
+How long have each of you been working on this? How much of that has been full-time? Please explain.,35.36666666666667,46.68421052631579,30,19,-11.31754385964912,-24.24276587748966
+Anything else you would like us to know regarding your revenue or growth rate?,34.333333333333336,45.8,9,10,-11.466666666666661,-25.036390101892277
+What is your monthly growth rate?,12.166666666666666,23.666666666666668,6,3,-11.500000000000002,-48.591549295774655
+Please provide any other relevant information about the structure or formation of the company.,10.857142857142858,23.333333333333332,7,9,-12.476190476190474,-53.46938775510204
+How do or will you make money? How much could you make?,100.875,116.86363636363636,32,22,-15.98863636363636,-13.681446907817968
+How far along are you?,66.92857142857143,87.38095238095238,28,21,-20.45238095238095,-23.405994550408714
+How long have the founders known one another and how did you meet? Have any of the founders not met in person?,56.4,82.8,25,15,-26.4,-31.88405797101449
+"How many active users or customers do you have? If you have some particularly valuable customers, who are they? If you're building hardware, how many units have you shipped?",27.866666666666667,61.42857142857143,15,14,-33.56190476190476,-54.63565891472868
+Why did you pick this idea to work on? Do you have domain expertise in this area? How do you know people need what you're making?,150.41935483870967,184.82608695652175,31,23,-34.40673211781208,-18.61573367936198
+"If you had any other ideas you considered applying with, please list them. One may be something we've been waiting for. Often when we fund people it's to do something they list here and not in the main application.",61.473684210526315,102.73684210526316,19,19,-41.26315789473685,-40.16393442622952
+"How will you get users? If your idea is the type that faces a chicken-and-egg problem in the sense that it won't be attractive to users till it has a lot of users (e.g. a marketplace, a dating site, an ad network), how will you overcome that?",77.88888888888889,120.6086956521739,27,23,-42.71980676328502,-35.420171433149086
+What do you understand about your business that other companies in it just don't get?,98.59375,153.42857142857142,32,21,-54.834821428571416,-35.73964152700186
+"If you are applying with the same idea as a previous batch, did anything change? If you applied with a different idea, why did you pivot and what did you learn from the last idea?",26.071428571428573,98.17647058823529,14,17,-72.10504201680672,-73.44432080801164
+Please tell us about the time you most successfully hacked some (non-computer) system to your advantage.,111.14285714285714,211.66666666666666,14,6,-100.52380952380952,-47.49156355455568

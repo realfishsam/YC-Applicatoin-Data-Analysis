@@ -1,0 +1,1404 @@
+status,length,company,question
+Successful,142,kash,What is your company going to make? Please describe your product and what it does or will do.
+Successful,15,kash,"Where do you live now, and where would the company be based after YC?"
+Successful,101,kash,"Please tell us about an interesting project, preferably outside of class or work, that two or more of you created together. Include urls if possible."
+Successful,118,kash,Please tell us in one or two sentences about something impressive that each founder has built or achieved.
+Successful,79,kash,Please tell us about the time you most successfully hacked some (non-computer) system to your advantage.
+Successful,37,kash,How long have the founders known one another and how did you meet? Have any of the founders not met in person?
+Successful,16,kash,"If we fund you, which of the founders will commit to working exclusively (no school, no other jobs) on this project for the next year?"
+Successful,48,kash,How far along are you?
+Successful,21,kash,How long have each of you been working on this? How much of that has been full-time? Please explain.
+Successful,39,kash,"If you have already participated or committed to participate in an incubator, ""accelerator"" or ""pre-accelerator"" program, please tell us about it."
+Successful,147,kash,Why did you pick this idea to work on? Do you have domain expertise in this area? How do you know people need what you're making?
+Successful,131,kash,What's new about what you're making? What substitutes do people resort to because it doesn't exist yet (or they don't know about it)?
+Successful,147,kash,"Who are your competitors, and who might become competitors? Who do you fear most?"
+Successful,129,kash,What do you understand about your business that other companies in it just don't get?
+Successful,92,kash,How do or will you make money? How much could you make?
+Successful,137,kash,"How will you get users? If your idea is the type that faces a chicken-and-egg problem in the sense that it won't be attractive to users till it has a lot of users (e.g. a marketplace, a dating site, an ad network), how will you overcome that?"
+Successful,7,kash,What kind of entity and in what state or country was the entity formed?
+Successful,28,kash,"Please describe the breakdown of the equity ownership in percentages among the founders, employees and any other stockholders. If there are multiple founders, be sure to give the equity ownership of each founder."
+Successful,43,kash,"Who writes code, or does other technical work on your product? Was any of it done by a non-founder? Please explain."
+Successful,49,kash,Please tell us something surprising or amusing that one of you has discovered.
+Successful,0,goodly,"If you have a demo, what's the url? Demo can be anything that shows us how the product works. Usually that's a video or screen recording."
+Successful,7,goodly,Describe what your company does in 50 characters or less.
+Successful,156,goodly,What is your company going to make? Please describe your product and what it does or will do.
+Successful,7,goodly,"Where do you live now, and where would the company be based after YC?"
+Successful,0,goodly,Please enter the url of a 1 minute unlisted (not private) YouTube video introducing the founder(s). This video is an important part of the application. (Follow the Video Guidelines.)
+Successful,28,goodly,"Please tell us about an interesting project, preferably outside of class or work, that two or more of you created together. Include urls if possible."
+Successful,34,goodly,How long have the founders known one another and how did you meet? Have any of the founders not met in person?
+Successful,1,goodly,Which category best applies to your company?
+Successful,1,goodly,Is this application in response to a YC RFS?
+Successful,1,goodly,"If yes, which one?"
+Successful,64,goodly,How far along are you?
+Successful,14,goodly,How long have each of you been working on this? How much of that has been full-time? Please explain.
+Successful,1,goodly,Which of the following best describes your progress?
+Successful,1,goodly,Are people using your product?
+Successful,10,goodly,"How many active users or customers do you have? If you have some particularly valuable customers, who are they? If you're building hardware, how many units have you shipped?"
+Successful,12,goodly,Anything else you would like us to know regarding your revenue or growth rate?
+Successful,7,goodly,"If you are applying with the same idea as a previous batch, did anything change? If you applied with a different idea, why did you pivot and what did you learn from the last idea?"
+Successful,1,goodly,"If you have already participated or committed to participate in an incubator, ""accelerator"" or ""pre-accelerator"" program, please tell us about it."
+Successful,256,goodly,Why did you pick this idea to work on? Do you have domain expertise in this area? How do you know people need what you're making?
+Successful,50,goodly,What's new about what you're making? What substitutes do people resort to because it doesn't exist yet (or they don't know about it)?
+Successful,17,goodly,"Who are your competitors, and who might become competitors? Who do you fear most?"
+Successful,62,goodly,What do you understand about your business that other companies in it just don't get?
+Successful,110,goodly,How do or will you make money? How much could you make?
+Successful,72,goodly,"How will you get users? If your idea is the type that faces a chicken-and-egg problem in the sense that it won't be attractive to users till it has a lot of users (e.g. a marketplace, a dating site, an ad network), how will you overcome that?"
+Successful,1,goodly,"Have you incorporated, or formed any legal entity (like an LLC) yet?"
+Successful,3,goodly,What kind of entity and in what state or country was the entity formed?
+Successful,1,goodly,"Please describe the breakdown of the equity ownership in percentages among the founders, employees and any other stockholders. If there are multiple founders, be sure to give the equity ownership of each founder."
+Successful,7,goodly,"List any investments your company has received. Include the name of the investor, the amount invested, the premoney valuation / valuation cap, and the type of security sold (convertible notes, safes or stock)."
+Successful,1,goodly,How much money do you spend per month?
+Successful,75,goodly,How long is your runway?
+Successful,31,goodly,Please provide any other relevant information about the structure or formation of the company.
+Successful,1,goodly,"Are any of the founders covered by noncompetes or intellectual property agreements that overlap with your project? If so, please explain."
+Successful,7,goodly,"Who writes code, or does other technical work on your product? Was any of it done by a non-founder? Please explain."
+Successful,1,goodly,Is there anything else we should know about your company?
+Successful,19,goodly,"If you had any other ideas you considered applying with, please list them. One may be something we've been waiting for. Often when we fund people it's to do something they list here and not in the main application."
+Successful,32,goodly,Please tell us something surprising or amusing that one of you has discovered.
+Successful,92,goodly,What convinced you to apply to Y Combinator? Did someone encourage you to apply?
+Successful,13,goodly,How did you hear about Y Combinator?
+Successful,0,dendron,"If you have a demo, what's the url? Demo can be anything that shows us how the product works. Usually that's a video or screen recording."
+Successful,4,dendron,Describe what your company does in 50 characters or less.
+Successful,170,dendron,What is your company going to make? Please describe your product and what it does or will do.
+Successful,0,dendron,Please enter the url of a 1 minute unlisted (not private) YouTube video introducing the founder(s). This video is an important part of the application. (Follow the Video Guidelines.)
+Successful,34,dendron,Please tell us in one or two sentences about something impressive that each founder has built or achieved.
+Successful,1,dendron,Which category best applies to your company?
+Successful,73,dendron,How far along are you?
+Successful,55,dendron,How long have each of you been working on this? How much of that has been full-time? Please explain.
+Successful,1,dendron,Are people using your product?
+Successful,37,dendron,"How many active users or customers do you have? If you have some particularly valuable customers, who are they? If you're building hardware, how many units have you shipped?"
+Successful,1,dendron,Do you have revenue?
+Successful,14,dendron,Anything else you would like us to know regarding your revenue or growth rate?
+Successful,62,dendron,"If you are applying with the same idea as a previous batch, did anything change? If you applied with a different idea, why did you pivot and what did you learn from the last idea?"
+Successful,98,dendron,Why did you pick this idea to work on? Do you have domain expertise in this area? How do you know people need what you're making?
+Successful,167,dendron,What's new about what you're making? What substitutes do people resort to because it doesn't exist yet (or they don't know about it)?
+Successful,165,dendron,"Who are your competitors, and who might become competitors? Who do you fear most?"
+Successful,57,dendron,What do you understand about your business that other companies in it just don't get?
+Successful,115,dendron,How do or will you make money? How much could you make?
+Successful,38,dendron,"How will you get users? If your idea is the type that faces a chicken-and-egg problem in the sense that it won't be attractive to users till it has a lot of users (e.g. a marketplace, a dating site, an ad network), how will you overcome that?"
+Successful,1,dendron,"Have you incorporated, or formed any legal entity (like an LLC) yet?"
+Successful,1,dendron,What kind of entity and in what state or country was the entity formed?
+Successful,1,dendron,Please provide any other relevant information about the structure or formation of the company.
+Successful,1,dendron,"Are any of the founders covered by noncompetes or intellectual property agreements that overlap with your project? If so, please explain."
+Successful,10,dendron,"Who writes code, or does other technical work on your product? Was any of it done by a non-founder? Please explain."
+Successful,25,standard-treasury,"If you have a demo, what's the url? Demo can be anything that shows us how the product works. Usually that's a video or screen recording."
+Successful,219,standard-treasury,What is your company going to make? Please describe your product and what it does or will do.
+Successful,2,standard-treasury,"Where do you live now, and where would the company be based after YC?"
+Successful,21,standard-treasury,"Please tell us about an interesting project, preferably outside of class or work, that two or more of you created together. Include urls if possible."
+Successful,72,standard-treasury,Please tell us in one or two sentences about something impressive that each founder has built or achieved.
+Successful,82,standard-treasury,Please tell us about the time you most successfully hacked some (non-computer) system to your advantage.
+Successful,14,standard-treasury,How long have the founders known one another and how did you meet? Have any of the founders not met in person?
+Successful,1,standard-treasury,Do any founders have other commitments between X and Y inclusive?
+Successful,1,standard-treasury,"Do any founders have commitments in the future (e.g. finishing college, going to grad school), and if so what?"
+Successful,49,standard-treasury,How far along are you?
+Successful,66,standard-treasury,How long have each of you been working on this? How much of that has been full-time? Please explain.
+Successful,60,standard-treasury,Why did you pick this idea to work on? Do you have domain expertise in this area? How do you know people need what you're making?
+Successful,112,standard-treasury,What's new about what you're making? What substitutes do people resort to because it doesn't exist yet (or they don't know about it)?
+Successful,137,standard-treasury,"Who are your competitors, and who might become competitors? Who do you fear most?"
+Successful,82,standard-treasury,What do you understand about your business that other companies in it just don't get?
+Successful,54,standard-treasury,How do or will you make money? How much could you make?
+Successful,74,standard-treasury,"How will you get users? If your idea is the type that faces a chicken-and-egg problem in the sense that it won't be attractive to users till it has a lot of users (e.g. a marketplace, a dating site, an ad network), how will you overcome that?"
+Successful,71,standard-treasury,"Are any of the founders covered by noncompetes or intellectual property agreements that overlap with your project? If so, please explain."
+Successful,9,standard-treasury,"Who writes code, or does other technical work on your product? Was any of it done by a non-founder? Please explain."
+Successful,77,standard-treasury,Please tell us something surprising or amusing that one of you has discovered.
+Successful,16,lollipuff,"If you have a demo, what's the url? Demo can be anything that shows us how the product works. Usually that's a video or screen recording."
+Successful,58,lollipuff,What is your company going to make? Please describe your product and what it does or will do.
+Successful,22,lollipuff,"Where do you live now, and where would the company be based after YC?"
+Successful,0,lollipuff,Please enter the url of a 1 minute unlisted (not private) YouTube video introducing the founder(s). This video is an important part of the application. (Follow the Video Guidelines.)
+Successful,53,lollipuff,"Please tell us about an interesting project, preferably outside of class or work, that two or more of you created together. Include urls if possible."
+Successful,164,lollipuff,Please tell us in one or two sentences about something impressive that each founder has built or achieved.
+Successful,99,lollipuff,Please tell us about the time you most successfully hacked some (non-computer) system to your advantage.
+Successful,65,lollipuff,How long have the founders known one another and how did you meet? Have any of the founders not met in person?
+Successful,3,lollipuff,"If we fund you, which of the founders will commit to working exclusively (no school, no other jobs) on this project for the next year?"
+Successful,1,lollipuff,"For founders who can’t, why not? What level of commitment are they willing to make?"
+Successful,37,lollipuff,Do any founders have other commitments between X and Y inclusive?
+Successful,1,lollipuff,"Do any founders have commitments in the future (e.g. finishing college, going to grad school), and if so what?"
+Successful,1,lollipuff,Is this application in response to a YC RFS?
+Successful,53,lollipuff,How far along are you?
+Successful,54,lollipuff,How long have each of you been working on this? How much of that has been full-time? Please explain.
+Successful,111,lollipuff,Why did you pick this idea to work on? Do you have domain expertise in this area? How do you know people need what you're making?
+Successful,75,lollipuff,What's new about what you're making? What substitutes do people resort to because it doesn't exist yet (or they don't know about it)?
+Successful,45,lollipuff,"Who are your competitors, and who might become competitors? Who do you fear most?"
+Successful,136,lollipuff,What do you understand about your business that other companies in it just don't get?
+Successful,100,lollipuff,How do or will you make money? How much could you make?
+Successful,110,lollipuff,"How will you get users? If your idea is the type that faces a chicken-and-egg problem in the sense that it won't be attractive to users till it has a lot of users (e.g. a marketplace, a dating site, an ad network), how will you overcome that?"
+Successful,7,lollipuff,What kind of entity and in what state or country was the entity formed?
+Successful,105,lollipuff,"Are any of the founders covered by noncompetes or intellectual property agreements that overlap with your project? If so, please explain."
+Successful,19,lollipuff,"Who writes code, or does other technical work on your product? Was any of it done by a non-founder? Please explain."
+Successful,105,lollipuff,"If you had any other ideas you considered applying with, please list them. One may be something we've been waiting for. Often when we fund people it's to do something they list here and not in the main application."
+Successful,83,lollipuff,Please tell us something surprising or amusing that one of you has discovered.
+Successful,1,mixpanel,"If you have a demo, what's the url? Demo can be anything that shows us how the product works. Usually that's a video or screen recording."
+Successful,25,mixpanel,What is your company going to make? Please describe your product and what it does or will do.
+Successful,86,mixpanel,"Please tell us about an interesting project, preferably outside of class or work, that two or more of you created together. Include urls if possible."
+Successful,61,mixpanel,Please tell us in one or two sentences about something impressive that each founder has built or achieved.
+Successful,76,mixpanel,Please tell us about the time you most successfully hacked some (non-computer) system to your advantage.
+Successful,102,mixpanel,How long have the founders known one another and how did you meet? Have any of the founders not met in person?
+Successful,20,mixpanel,"If we fund you, which of the founders will commit to working exclusively (no school, no other jobs) on this project for the next year?"
+Successful,14,mixpanel,Do any founders have other commitments between X and Y inclusive?
+Successful,39,mixpanel,"Do any founders have commitments in the future (e.g. finishing college, going to grad school), and if so what?"
+Successful,57,mixpanel,When will you have a prototype or beta?
+Successful,102,mixpanel,What's new about what you're making? What substitutes do people resort to because it doesn't exist yet (or they don't know about it)?
+Successful,70,mixpanel,"Who are your competitors, and who might become competitors? Who do you fear most?"
+Successful,90,mixpanel,What do you understand about your business that other companies in it just don't get?
+Successful,71,mixpanel,How do or will you make money? How much could you make?
+Successful,1,mixpanel,"Have you incorporated, or formed any legal entity (like an LLC) yet?"
+Successful,4,mixpanel,"Are any of the founders covered by noncompetes or intellectual property agreements that overlap with your project? If so, please explain."
+Successful,13,mixpanel,"Who writes code, or does other technical work on your product? Was any of it done by a non-founder? Please explain."
+Successful,37,mixpanel,"If you had any other ideas you considered applying with, please list them. One may be something we've been waiting for. Often when we fund people it's to do something they list here and not in the main application."
+Successful,18,mixpanel,Please tell us something surprising or amusing that one of you has discovered.
+Successful,117,mimir,What is your company going to make? Please describe your product and what it does or will do.
+Successful,14,mimir,"Where do you live now, and where would the company be based after YC?"
+Successful,1,mimir,Please enter the url of a 1 minute unlisted (not private) YouTube video introducing the founder(s). This video is an important part of the application. (Follow the Video Guidelines.)
+Successful,90,mimir,"Please tell us about an interesting project, preferably outside of class or work, that two or more of you created together. Include urls if possible."
+Successful,42,mimir,How long have the founders known one another and how did you meet? Have any of the founders not met in person?
+Successful,92,mimir,How far along are you?
+Successful,7,mimir,How long have each of you been working on this? How much of that has been full-time? Please explain.
+Successful,2,mimir,Which of the following best describes your progress?
+Successful,1,mimir,"How many active users or customers do you have? If you have some particularly valuable customers, who are they? If you're building hardware, how many units have you shipped?"
+Successful,1,mimir,Do you have revenue?
+Successful,5,mimir,How much revenue?
+Successful,36,mimir,What is your monthly growth rate?
+Successful,53,mimir,"If you have already participated or committed to participate in an incubator, ""accelerator"" or ""pre-accelerator"" program, please tell us about it."
+Successful,161,mimir,Why did you pick this idea to work on? Do you have domain expertise in this area? How do you know people need what you're making?
+Successful,184,mimir,What's new about what you're making? What substitutes do people resort to because it doesn't exist yet (or they don't know about it)?
+Successful,125,mimir,"Who are your competitors, and who might become competitors? Who do you fear most?"
+Successful,69,mimir,What do you understand about your business that other companies in it just don't get?
+Successful,57,mimir,How do or will you make money? How much could you make?
+Successful,46,mimir,"How will you get users? If your idea is the type that faces a chicken-and-egg problem in the sense that it won't be attractive to users till it has a lot of users (e.g. a marketplace, a dating site, an ad network), how will you overcome that?"
+Successful,36,mimir,Please tell us something surprising or amusing that one of you has discovered.
+Successful,25,dropbox,"If you have a demo, what's the url? Demo can be anything that shows us how the product works. Usually that's a video or screen recording."
+Successful,131,dropbox,What is your company going to make? Please describe your product and what it does or will do.
+Successful,28,dropbox,"Please tell us about an interesting project, preferably outside of class or work, that two or more of you created together. Include urls if possible."
+Successful,54,dropbox,Please tell us in one or two sentences about something impressive that each founder has built or achieved.
+Successful,6,dropbox,How long have the founders known one another and how did you meet? Have any of the founders not met in person?
+Successful,1,dropbox,"If we fund you, which of the founders will commit to working exclusively (no school, no other jobs) on this project for the next year?"
+Successful,18,dropbox,Do any founders have other commitments between X and Y inclusive?
+Successful,7,dropbox,"Do any founders have commitments in the future (e.g. finishing college, going to grad school), and if so what?"
+Successful,18,dropbox,How far along are you?
+Successful,18,dropbox,How long have each of you been working on this? How much of that has been full-time? Please explain.
+Successful,214,dropbox,What's new about what you're making? What substitutes do people resort to because it doesn't exist yet (or they don't know about it)?
+Successful,97,dropbox,"Who are your competitors, and who might become competitors? Who do you fear most?"
+Successful,97,dropbox,What do you understand about your business that other companies in it just don't get?
+Successful,186,dropbox,How do or will you make money? How much could you make?
+Successful,1,dropbox,"Have you incorporated, or formed any legal entity (like an LLC) yet?"
+Successful,28,dropbox,"Are any of the founders covered by noncompetes or intellectual property agreements that overlap with your project? If so, please explain."
+Successful,1,dropbox,"Who writes code, or does other technical work on your product? Was any of it done by a non-founder? Please explain."
+Successful,75,dropbox,"If you had any other ideas you considered applying with, please list them. One may be something we've been waiting for. Often when we fund people it's to do something they list here and not in the main application."
+Successful,22,dropbox,Please tell us something surprising or amusing that one of you has discovered.
+Successful,9,flex,Describe what your company does in 50 characters or less.
+Successful,106,flex,What is your company going to make? Please describe your product and what it does or will do.
+Successful,103,flex,"Please tell us about an interesting project, preferably outside of class or work, that two or more of you created together. Include urls if possible."
+Successful,163,flex,How long have the founders known one another and how did you meet? Have any of the founders not met in person?
+Successful,50,flex,How far along are you?
+Successful,50,flex,How long have each of you been working on this? How much of that has been full-time? Please explain.
+Successful,15,flex,"If you are applying with the same idea as a previous batch, did anything change? If you applied with a different idea, why did you pivot and what did you learn from the last idea?"
+Successful,23,flex,"If you have already participated or committed to participate in an incubator, ""accelerator"" or ""pre-accelerator"" program, please tell us about it."
+Successful,392,flex,Why did you pick this idea to work on? Do you have domain expertise in this area? How do you know people need what you're making?
+Successful,187,flex,What's new about what you're making? What substitutes do people resort to because it doesn't exist yet (or they don't know about it)?
+Successful,153,flex,"Who are your competitors, and who might become competitors? Who do you fear most?"
+Successful,232,flex,What do you understand about your business that other companies in it just don't get?
+Successful,63,flex,How do or will you make money? How much could you make?
+Successful,153,flex,"How will you get users? If your idea is the type that faces a chicken-and-egg problem in the sense that it won't be attractive to users till it has a lot of users (e.g. a marketplace, a dating site, an ad network), how will you overcome that?"
+Successful,8,flex,What kind of entity and in what state or country was the entity formed?
+Successful,9,flex,"Are any of the founders covered by noncompetes or intellectual property agreements that overlap with your project? If so, please explain."
+Successful,13,flex,"Who writes code, or does other technical work on your product? Was any of it done by a non-founder? Please explain."
+Successful,125,flex,Is there anything else we should know about your company?
+Successful,118,flex,Please tell us something surprising or amusing that one of you has discovered.
+Successful,45,flex,What convinced you to apply to Y Combinator? Did someone encourage you to apply?
+Successful,10,supernote-metlo,"If you have a demo, what's the url? Demo can be anything that shows us how the product works. Usually that's a video or screen recording."
+Successful,80,supernote-metlo,"Please tell us about an interesting project, preferably outside of class or work, that two or more of you created together. Include urls if possible."
+Successful,38,supernote-metlo,How long have the founders known one another and how did you meet? Have any of the founders not met in person?
+Successful,1,supernote-metlo,How many founders are on the team?
+Successful,2,supernote-metlo,Which category best applies to your company?
+Successful,70,supernote-metlo,How far along are you?
+Successful,63,supernote-metlo,How long have each of you been working on this? How much of that has been full-time? Please explain.
+Successful,1,supernote-metlo,Are people using your product?
+Successful,1,supernote-metlo,When will you have a prototype or beta?
+Successful,1,supernote-metlo,Do you have revenue?
+Successful,21,supernote-metlo,We're interested in your revenue over the last several months. (Not cumulative and not GMV).
+Successful,59,supernote-metlo,Anything else you would like us to know regarding your revenue or growth rate?
+Successful,8,supernote-metlo,"If you are applying with the same idea as a previous batch, did anything change? If you applied with a different idea, why did you pivot and what did you learn from the last idea?"
+Successful,8,supernote-metlo,"If you have already participated or committed to participate in an incubator, ""accelerator"" or ""pre-accelerator"" program, please tell us about it."
+Successful,317,supernote-metlo,Why did you pick this idea to work on? Do you have domain expertise in this area? How do you know people need what you're making?
+Successful,167,supernote-metlo,What's new about what you're making? What substitutes do people resort to because it doesn't exist yet (or they don't know about it)?
+Successful,85,supernote-metlo,"Who are your competitors, and who might become competitors? Who do you fear most?"
+Successful,70,supernote-metlo,What do you understand about your business that other companies in it just don't get?
+Successful,119,supernote-metlo,How do or will you make money? How much could you make?
+Successful,40,supernote-metlo,"How will you get users? If your idea is the type that faces a chicken-and-egg problem in the sense that it won't be attractive to users till it has a lot of users (e.g. a marketplace, a dating site, an ad network), how will you overcome that?"
+Successful,1,supernote-metlo,"Have you incorporated, or formed any legal entity (like an LLC) yet?"
+Successful,4,supernote-metlo,Please provide any other relevant information about the structure or formation of the company.
+Successful,1,supernote-metlo,"Are any of the founders covered by noncompetes or intellectual property agreements that overlap with your project? If so, please explain."
+Successful,14,supernote-metlo,"Who writes code, or does other technical work on your product? Was any of it done by a non-founder? Please explain."
+Successful,1,supernote-metlo,Is there anything else we should know about your company?
+Successful,32,supernote-metlo,"If you had any other ideas you considered applying with, please list them. One may be something we've been waiting for. Often when we fund people it's to do something they list here and not in the main application."
+Successful,98,supernote-metlo,Please tell us something surprising or amusing that one of you has discovered.
+Successful,96,sketchdeck,What is your company going to make? Please describe your product and what it does or will do.
+Successful,70,sketchdeck,"Please tell us about an interesting project, preferably outside of class or work, that two or more of you created together. Include urls if possible."
+Successful,98,sketchdeck,Please tell us in one or two sentences about something impressive that each founder has built or achieved.
+Successful,79,sketchdeck,Please tell us about the time you most successfully hacked some (non-computer) system to your advantage.
+Successful,17,sketchdeck,How long have the founders known one another and how did you meet? Have any of the founders not met in person?
+Successful,11,sketchdeck,"If we fund you, which of the founders will commit to working exclusively (no school, no other jobs) on this project for the next year?"
+Successful,1,sketchdeck,Is this application in response to a YC RFS?
+Successful,1,sketchdeck,"If yes, which one?"
+Successful,106,sketchdeck,How far along are you?
+Successful,58,sketchdeck,How long have each of you been working on this? How much of that has been full-time? Please explain.
+Successful,85,sketchdeck,Why did you pick this idea to work on? Do you have domain expertise in this area? How do you know people need what you're making?
+Successful,29,sketchdeck,What's new about what you're making? What substitutes do people resort to because it doesn't exist yet (or they don't know about it)?
+Successful,59,sketchdeck,"Who are your competitors, and who might become competitors? Who do you fear most?"
+Successful,28,sketchdeck,What do you understand about your business that other companies in it just don't get?
+Successful,72,sketchdeck,How do or will you make money? How much could you make?
+Successful,128,sketchdeck,"How will you get users? If your idea is the type that faces a chicken-and-egg problem in the sense that it won't be attractive to users till it has a lot of users (e.g. a marketplace, a dating site, an ad network), how will you overcome that?"
+Successful,183,sketchdeck,"If you had any other ideas you considered applying with, please list them. One may be something we've been waiting for. Often when we fund people it's to do something they list here and not in the main application."
+Successful,61,sketchdeck,Please tell us something surprising or amusing that one of you has discovered.
+Successful,0,courier,"If you have a demo, what's the url? Demo can be anything that shows us how the product works. Usually that's a video or screen recording."
+Successful,7,courier,Describe what your company does in 50 characters or less.
+Successful,104,courier,What is your company going to make? Please describe your product and what it does or will do.
+Successful,2,courier,"Where do you live now, and where would the company be based after YC?"
+Successful,0,courier,Please enter the url of a 1 minute unlisted (not private) YouTube video introducing the founder(s). This video is an important part of the application. (Follow the Video Guidelines.)
+Successful,77,courier,Please tell us in one or two sentences about something impressive that each founder has built or achieved.
+Successful,1,courier,"Do any founders have commitments in the future (e.g. finishing college, going to grad school), and if so what?"
+Successful,2,courier,Which category best applies to your company?
+Successful,12,courier,How far along are you?
+Successful,28,courier,How long have each of you been working on this? How much of that has been full-time? Please explain.
+Successful,1,courier,Are people using your product?
+Successful,14,courier,When will you have a prototype or beta?
+Successful,1,courier,Do you have revenue?
+Successful,1,courier,"If you are applying with the same idea as a previous batch, did anything change? If you applied with a different idea, why did you pivot and what did you learn from the last idea?"
+Successful,1,courier,"If you have already participated or committed to participate in an incubator, ""accelerator"" or ""pre-accelerator"" program, please tell us about it."
+Successful,84,courier,Why did you pick this idea to work on? Do you have domain expertise in this area? How do you know people need what you're making?
+Successful,62,courier,What's new about what you're making? What substitutes do people resort to because it doesn't exist yet (or they don't know about it)?
+Successful,104,courier,"Who are your competitors, and who might become competitors? Who do you fear most?"
+Successful,76,courier,What do you understand about your business that other companies in it just don't get?
+Successful,126,courier,How do or will you make money? How much could you make?
+Successful,17,courier,"How will you get users? If your idea is the type that faces a chicken-and-egg problem in the sense that it won't be attractive to users till it has a lot of users (e.g. a marketplace, a dating site, an ad network), how will you overcome that?"
+Successful,1,courier,"Have you incorporated, or formed any legal entity (like an LLC) yet?"
+Successful,3,courier,What kind of entity and in what state or country was the entity formed?
+Successful,4,courier,"Please describe the breakdown of the equity ownership in percentages among the founders, employees and any other stockholders. If there are multiple founders, be sure to give the equity ownership of each founder."
+Successful,13,courier,Please provide any other relevant information about the structure or formation of the company.
+Successful,55,courier,"Are any of the founders covered by noncompetes or intellectual property agreements that overlap with your project? If so, please explain."
+Successful,8,courier,"Who writes code, or does other technical work on your product? Was any of it done by a non-founder? Please explain."
+Successful,1,courier,Is there anything else we should know about your company?
+Successful,67,courier,"If you had any other ideas you considered applying with, please list them. One may be something we've been waiting for. Often when we fund people it's to do something they list here and not in the main application."
+Successful,162,courier,Please tell us something surprising or amusing that one of you has discovered.
+Successful,1,openphone,"If you have a demo, what's the url? Demo can be anything that shows us how the product works. Usually that's a video or screen recording."
+Successful,8,openphone,Describe what your company does in 50 characters or less.
+Successful,152,openphone,What is your company going to make? Please describe your product and what it does or will do.
+Successful,4,openphone,"Where do you live now, and where would the company be based after YC?"
+Successful,0,openphone,Please enter the url of a 1 minute unlisted (not private) YouTube video introducing the founder(s). This video is an important part of the application. (Follow the Video Guidelines.)
+Successful,128,openphone,"Please tell us about an interesting project, preferably outside of class or work, that two or more of you created together. Include urls if possible."
+Successful,15,openphone,How long have the founders known one another and how did you meet? Have any of the founders not met in person?
+Successful,1,openphone,Which category best applies to your company?
+Successful,1,openphone,Is this application in response to a YC RFS?
+Successful,2,openphone,"If yes, which one?"
+Successful,43,openphone,How far along are you?
+Successful,1,openphone,Which of the following best describes your progress?
+Successful,10,openphone,"How many active users or customers do you have? If you have some particularly valuable customers, who are they? If you're building hardware, how many units have you shipped?"
+Successful,1,openphone,Do you have revenue?
+Successful,24,openphone,We're interested in your revenue over the last several months. (Not cumulative and not GMV).
+Successful,65,openphone,Anything else you would like us to know regarding your revenue or growth rate?
+Successful,43,openphone,"If you are applying with the same idea as a previous batch, did anything change? If you applied with a different idea, why did you pivot and what did you learn from the last idea?"
+Successful,16,openphone,"If you have already participated or committed to participate in an incubator, ""accelerator"" or ""pre-accelerator"" program, please tell us about it."
+Successful,190,openphone,Why did you pick this idea to work on? Do you have domain expertise in this area? How do you know people need what you're making?
+Successful,108,openphone,What's new about what you're making? What substitutes do people resort to because it doesn't exist yet (or they don't know about it)?
+Successful,229,openphone,"Who are your competitors, and who might become competitors? Who do you fear most?"
+Successful,73,openphone,What do you understand about your business that other companies in it just don't get?
+Successful,60,openphone,How do or will you make money? How much could you make?
+Successful,97,openphone,"How will you get users? If your idea is the type that faces a chicken-and-egg problem in the sense that it won't be attractive to users till it has a lot of users (e.g. a marketplace, a dating site, an ad network), how will you overcome that?"
+Successful,41,openphone,Please tell us something surprising or amusing that one of you has discovered.
+Successful,116,openphone,What convinced you to apply to Y Combinator? Did someone encourage you to apply?
+Successful,2,openphone,How did you hear about Y Combinator?
+Successful,1,bxblue,"If you have a demo, what's the url? Demo can be anything that shows us how the product works. Usually that's a video or screen recording."
+Successful,5,bxblue,Describe what your company does in 50 characters or less.
+Successful,266,bxblue,What is your company going to make? Please describe your product and what it does or will do.
+Successful,33,bxblue,"Where do you live now, and where would the company be based after YC?"
+Successful,2,bxblue,Which category best applies to your company?
+Successful,1,bxblue,Is this application in response to a YC RFS?
+Successful,2,bxblue,"If yes, which one?"
+Successful,139,bxblue,How far along are you?
+Successful,5,bxblue,How long have each of you been working on this? How much of that has been full-time? Please explain.
+Successful,2,bxblue,Which of the following best describes your progress?
+Successful,24,bxblue,"How many active users or customers do you have? If you have some particularly valuable customers, who are they? If you're building hardware, how many units have you shipped?"
+Successful,1,bxblue,Do you have revenue?
+Successful,30,bxblue,We're interested in your revenue over the last several months. (Not cumulative and not GMV).
+Successful,28,bxblue,Anything else you would like us to know regarding your revenue or growth rate?
+Successful,3,bxblue,"If you are applying with the same idea as a previous batch, did anything change? If you applied with a different idea, why did you pivot and what did you learn from the last idea?"
+Successful,31,bxblue,"If you have already participated or committed to participate in an incubator, ""accelerator"" or ""pre-accelerator"" program, please tell us about it."
+Successful,181,bxblue,Why did you pick this idea to work on? Do you have domain expertise in this area? How do you know people need what you're making?
+Successful,214,bxblue,What's new about what you're making? What substitutes do people resort to because it doesn't exist yet (or they don't know about it)?
+Successful,76,bxblue,"Who are your competitors, and who might become competitors? Who do you fear most?"
+Successful,136,bxblue,What do you understand about your business that other companies in it just don't get?
+Successful,200,bxblue,How do or will you make money? How much could you make?
+Successful,84,bxblue,"How will you get users? If your idea is the type that faces a chicken-and-egg problem in the sense that it won't be attractive to users till it has a lot of users (e.g. a marketplace, a dating site, an ad network), how will you overcome that?"
+Successful,1,bxblue,How much money do you spend per month?
+Successful,1,bxblue,How much money does your company have in the bank now?
+Successful,3,bxblue,How long is your runway?
+Successful,7,slite,Describe what your company does in 50 characters or less.
+Successful,21,slite,What is your company going to make? Please describe your product and what it does or will do.
+Successful,0,slite,Please enter the url of a 1 minute unlisted (not private) YouTube video introducing the founder(s). This video is an important part of the application. (Follow the Video Guidelines.)
+Successful,100,slite,"Please tell us about an interesting project, preferably outside of class or work, that two or more of you created together. Include urls if possible."
+Successful,101,slite,How long have the founders known one another and how did you meet? Have any of the founders not met in person?
+Successful,180,slite,How far along are you?
+Successful,10,slite,How long have each of you been working on this? How much of that has been full-time? Please explain.
+Successful,46,slite,"How many active users or customers do you have? If you have some particularly valuable customers, who are they? If you're building hardware, how many units have you shipped?"
+Successful,22,slite,"If you have already participated or committed to participate in an incubator, ""accelerator"" or ""pre-accelerator"" program, please tell us about it."
+Successful,73,slite,Why did you pick this idea to work on? Do you have domain expertise in this area? How do you know people need what you're making?
+Successful,60,slite,What's new about what you're making? What substitutes do people resort to because it doesn't exist yet (or they don't know about it)?
+Successful,49,slite,"Who are your competitors, and who might become competitors? Who do you fear most?"
+Successful,84,slite,What do you understand about your business that other companies in it just don't get?
+Successful,36,slite,How do or will you make money? How much could you make?
+Successful,32,slite,"How will you get users? If your idea is the type that faces a chicken-and-egg problem in the sense that it won't be attractive to users till it has a lot of users (e.g. a marketplace, a dating site, an ad network), how will you overcome that?"
+Successful,1,slite,"Are any of the founders covered by noncompetes or intellectual property agreements that overlap with your project? If so, please explain."
+Successful,36,slite,"Who writes code, or does other technical work on your product? Was any of it done by a non-founder? Please explain."
+Successful,1,slite,Is there anything else we should know about your company?
+Successful,58,slite,"If you had any other ideas you considered applying with, please list them. One may be something we've been waiting for. Often when we fund people it's to do something they list here and not in the main application."
+Successful,89,slite,Please tell us something surprising or amusing that one of you has discovered.
+Successful,79,slite,What convinced you to apply to Y Combinator? Did someone encourage you to apply?
+Successful,6,slite,How did you hear about Y Combinator?
+Successful,90,80000-hours,What is your company going to make? Please describe your product and what it does or will do.
+Successful,1,80000-hours,Please enter the url of a 1 minute unlisted (not private) YouTube video introducing the founder(s). This video is an important part of the application. (Follow the Video Guidelines.)
+Successful,85,80000-hours,"Please tell us about an interesting project, preferably outside of class or work, that two or more of you created together. Include urls if possible."
+Successful,110,80000-hours,How long have the founders known one another and how did you meet? Have any of the founders not met in person?
+Successful,147,80000-hours,How far along are you?
+Successful,37,80000-hours,How long have each of you been working on this? How much of that has been full-time? Please explain.
+Successful,1,80000-hours,Which of the following best describes your progress?
+Successful,1,80000-hours,Do you have revenue?
+Successful,57,80000-hours,How much revenue?
+Successful,3,80000-hours,What is your monthly growth rate?
+Successful,65,80000-hours,"If you are applying with the same idea as a previous batch, did anything change? If you applied with a different idea, why did you pivot and what did you learn from the last idea?"
+Successful,237,80000-hours,Why did you pick this idea to work on? Do you have domain expertise in this area? How do you know people need what you're making?
+Successful,91,80000-hours,What's new about what you're making? What substitutes do people resort to because it doesn't exist yet (or they don't know about it)?
+Successful,1,80000-hours,"Have you incorporated, or formed any legal entity (like an LLC) yet?"
+Successful,6,80000-hours,What kind of entity and in what state or country was the entity formed?
+Successful,61,80000-hours,"List any investments your company has received. Include the name of the investor, the amount invested, the premoney valuation / valuation cap, and the type of security sold (convertible notes, safes or stock)."
+Successful,23,80000-hours,Please provide any other relevant information about the structure or formation of the company.
+Successful,1,80000-hours,"If you had any other ideas you considered applying with, please list them. One may be something we've been waiting for. Often when we fund people it's to do something they list here and not in the main application."
+Successful,51,80000-hours,Please tell us something surprising or amusing that one of you has discovered.
+Successful,54,80000-hours,What convinced you to apply to Y Combinator? Did someone encourage you to apply?
+Successful,22,80000-hours,How did you hear about Y Combinator?
+Successful,255,relationship-hero-wittythumbs,Please tell us about the time you most successfully hacked some (non-computer) system to your advantage.
+Successful,276,relationship-hero-wittythumbs,Why did you pick this idea to work on? Do you have domain expertise in this area? How do you know people need what you're making?
+Successful,174,relationship-hero-wittythumbs,What do you understand about your business that other companies in it just don't get?
+Successful,72,proxino-taazr,What is your company going to make? Please describe your product and what it does or will do.
+Successful,68,proxino-taazr,"Please tell us about an interesting project, preferably outside of class or work, that two or more of you created together. Include urls if possible."
+Successful,69,proxino-taazr,Please tell us in one or two sentences about something impressive that each founder has built or achieved.
+Successful,103,proxino-taazr,Please tell us about the time you most successfully hacked some (non-computer) system to your advantage.
+Successful,42,proxino-taazr,How long have the founders known one another and how did you meet? Have any of the founders not met in person?
+Successful,147,proxino-taazr,Why did you pick this idea to work on? Do you have domain expertise in this area? How do you know people need what you're making?
+Successful,140,proxino-taazr,What's new about what you're making? What substitutes do people resort to because it doesn't exist yet (or they don't know about it)?
+Successful,30,proxino-taazr,"Who are your competitors, and who might become competitors? Who do you fear most?"
+Successful,55,proxino-taazr,What do you understand about your business that other companies in it just don't get?
+Successful,15,proxino-taazr,How do or will you make money? How much could you make?
+Successful,60,proxino-taazr,Please tell us something surprising or amusing that one of you has discovered.
+Successful,49,seeing-interactive-own-local,"If you have a demo, what's the url? Demo can be anything that shows us how the product works. Usually that's a video or screen recording."
+Successful,171,seeing-interactive-own-local,What is your company going to make? Please describe your product and what it does or will do.
+Successful,119,seeing-interactive-own-local,"Please tell us about an interesting project, preferably outside of class or work, that two or more of you created together. Include urls if possible."
+Successful,81,seeing-interactive-own-local,Please tell us in one or two sentences about something impressive that each founder has built or achieved.
+Successful,118,seeing-interactive-own-local,Please tell us about the time you most successfully hacked some (non-computer) system to your advantage.
+Successful,29,seeing-interactive-own-local,How long have the founders known one another and how did you meet? Have any of the founders not met in person?
+Successful,31,seeing-interactive-own-local,"If we fund you, which of the founders will commit to working exclusively (no school, no other jobs) on this project for the next year?"
+Successful,52,seeing-interactive-own-local,"Do any founders have commitments in the future (e.g. finishing college, going to grad school), and if so what?"
+Successful,19,seeing-interactive-own-local,How long have each of you been working on this? How much of that has been full-time? Please explain.
+Successful,98,seeing-interactive-own-local,When will you have a prototype or beta?
+Successful,81,seeing-interactive-own-local,What's new about what you're making? What substitutes do people resort to because it doesn't exist yet (or they don't know about it)?
+Successful,98,seeing-interactive-own-local,"Who are your competitors, and who might become competitors? Who do you fear most?"
+Successful,144,seeing-interactive-own-local,How do or will you make money? How much could you make?
+Successful,30,seeing-interactive-own-local,"Please describe the breakdown of the equity ownership in percentages among the founders, employees and any other stockholders. If there are multiple founders, be sure to give the equity ownership of each founder."
+Successful,37,seeing-interactive-own-local,"Are any of the founders covered by noncompetes or intellectual property agreements that overlap with your project? If so, please explain."
+Successful,29,seeing-interactive-own-local,"Who writes code, or does other technical work on your product? Was any of it done by a non-founder? Please explain."
+Successful,125,seeing-interactive-own-local,"If you had any other ideas you considered applying with, please list them. One may be something we've been waiting for. Often when we fund people it's to do something they list here and not in the main application."
+Successful,22,seeing-interactive-own-local,Please tell us something surprising or amusing that one of you has discovered.
+Successful,144,makegameswithus-make-school,What is your company going to make? Please describe your product and what it does or will do.
+Successful,46,makegameswithus-make-school,"Please tell us about an interesting project, preferably outside of class or work, that two or more of you created together. Include urls if possible."
+Successful,78,makegameswithus-make-school,Please tell us in one or two sentences about something impressive that each founder has built or achieved.
+Successful,62,makegameswithus-make-school,Please tell us about the time you most successfully hacked some (non-computer) system to your advantage.
+Successful,37,makegameswithus-make-school,How long have the founders known one another and how did you meet? Have any of the founders not met in person?
+Successful,88,makegameswithus-make-school,How long have each of you been working on this? How much of that has been full-time? Please explain.
+Successful,124,makegameswithus-make-school,Why did you pick this idea to work on? Do you have domain expertise in this area? How do you know people need what you're making?
+Successful,108,makegameswithus-make-school,What's new about what you're making? What substitutes do people resort to because it doesn't exist yet (or they don't know about it)?
+Successful,59,makegameswithus-make-school,"Who are your competitors, and who might become competitors? Who do you fear most?"
+Successful,124,makegameswithus-make-school,What do you understand about your business that other companies in it just don't get?
+Successful,126,makegameswithus-make-school,How do or will you make money? How much could you make?
+Successful,119,makegameswithus-make-school,"How will you get users? If your idea is the type that faces a chicken-and-egg problem in the sense that it won't be attractive to users till it has a lot of users (e.g. a marketplace, a dating site, an ad network), how will you overcome that?"
+Successful,231,makegameswithus-make-school,"If you had any other ideas you considered applying with, please list them. One may be something we've been waiting for. Often when we fund people it's to do something they list here and not in the main application."
+Successful,32,makegameswithus-make-school,Please tell us something surprising or amusing that one of you has discovered.
+Successful,74,cruise,What is your company going to make? Please describe your product and what it does or will do.
+Successful,1,cruise,"Where do you live now, and where would the company be based after YC?"
+Successful,1,cruise,Please enter the url of a 1 minute unlisted (not private) YouTube video introducing the founder(s). This video is an important part of the application. (Follow the Video Guidelines.)
+Successful,42,cruise,"Please tell us about an interesting project, preferably outside of class or work, that two or more of you created together. Include urls if possible."
+Successful,72,cruise,Please tell us in one or two sentences about something impressive that each founder has built or achieved.
+Successful,120,cruise,Please tell us about the time you most successfully hacked some (non-computer) system to your advantage.
+Successful,16,cruise,How long have the founders known one another and how did you meet? Have any of the founders not met in person?
+Successful,3,cruise,"If we fund you, which of the founders will commit to working exclusively (no school, no other jobs) on this project for the next year?"
+Successful,1,cruise,Do any founders have other commitments between X and Y inclusive?
+Successful,1,cruise,"Do any founders have commitments in the future (e.g. finishing college, going to grad school), and if so what?"
+Successful,90,cruise,How far along are you?
+Successful,12,cruise,How long have each of you been working on this? How much of that has been full-time? Please explain.
+Successful,201,cruise,Why did you pick this idea to work on? Do you have domain expertise in this area? How do you know people need what you're making?
+Successful,110,cruise,What's new about what you're making? What substitutes do people resort to because it doesn't exist yet (or they don't know about it)?
+Successful,109,cruise,"Who are your competitors, and who might become competitors? Who do you fear most?"
+Successful,56,cruise,What do you understand about your business that other companies in it just don't get?
+Successful,83,cruise,How do or will you make money? How much could you make?
+Successful,33,cruise,"How will you get users? If your idea is the type that faces a chicken-and-egg problem in the sense that it won't be attractive to users till it has a lot of users (e.g. a marketplace, a dating site, an ad network), how will you overcome that?"
+Successful,12,cruise,What kind of entity and in what state or country was the entity formed?
+Successful,11,cruise,"Please describe the breakdown of the equity ownership in percentages among the founders, employees and any other stockholders. If there are multiple founders, be sure to give the equity ownership of each founder."
+Successful,1,cruise,"Are any of the founders covered by noncompetes or intellectual property agreements that overlap with your project? If so, please explain."
+Successful,8,cruise,"Who writes code, or does other technical work on your product? Was any of it done by a non-founder? Please explain."
+Successful,8,cruise,"If you had any other ideas you considered applying with, please list them. One may be something we've been waiting for. Often when we fund people it's to do something they list here and not in the main application."
+Successful,46,cruise,Please tell us something surprising or amusing that one of you has discovered.
+Successful,0,prolific,"If you have a demo, what's the url? Demo can be anything that shows us how the product works. Usually that's a video or screen recording."
+Successful,7,prolific,Describe what your company does in 50 characters or less.
+Successful,222,prolific,What is your company going to make? Please describe your product and what it does or will do.
+Successful,18,prolific,"Where do you live now, and where would the company be based after YC?"
+Successful,0,prolific,Please enter the url of a 1 minute unlisted (not private) YouTube video introducing the founder(s). This video is an important part of the application. (Follow the Video Guidelines.)
+Successful,95,prolific,"Please tell us about an interesting project, preferably outside of class or work, that two or more of you created together. Include urls if possible."
+Successful,40,prolific,How long have the founders known one another and how did you meet? Have any of the founders not met in person?
+Successful,1,prolific,Which category best applies to your company?
+Successful,73,prolific,How far along are you?
+Successful,34,prolific,How long have each of you been working on this? How much of that has been full-time? Please explain.
+Successful,1,prolific,Are people using your product?
+Successful,46,prolific,"How many active users or customers do you have? If you have some particularly valuable customers, who are they? If you're building hardware, how many units have you shipped?"
+Successful,1,prolific,Do you have revenue?
+Successful,48,prolific,Anything else you would like us to know regarding your revenue or growth rate?
+Successful,4,prolific,"If you are applying with the same idea as a previous batch, did anything change? If you applied with a different idea, why did you pivot and what did you learn from the last idea?"
+Successful,70,prolific,"If you have already participated or committed to participate in an incubator, ""accelerator"" or ""pre-accelerator"" program, please tell us about it."
+Successful,255,prolific,Why did you pick this idea to work on? Do you have domain expertise in this area? How do you know people need what you're making?
+Successful,249,prolific,What's new about what you're making? What substitutes do people resort to because it doesn't exist yet (or they don't know about it)?
+Successful,133,prolific,"Who are your competitors, and who might become competitors? Who do you fear most?"
+Successful,208,prolific,What do you understand about your business that other companies in it just don't get?
+Successful,108,prolific,How do or will you make money? How much could you make?
+Successful,127,prolific,"How will you get users? If your idea is the type that faces a chicken-and-egg problem in the sense that it won't be attractive to users till it has a lot of users (e.g. a marketplace, a dating site, an ad network), how will you overcome that?"
+Successful,1,prolific,"Have you incorporated, or formed any legal entity (like an LLC) yet?"
+Successful,5,prolific,What kind of entity and in what state or country was the entity formed?
+Successful,1,prolific,Have you taken any investment yet?
+Successful,1,prolific,"Are any of the founders covered by noncompetes or intellectual property agreements that overlap with your project? If so, please explain."
+Successful,40,prolific,"Who writes code, or does other technical work on your product? Was any of it done by a non-founder? Please explain."
+Successful,1,prolific,Is there anything else we should know about your company?
+Successful,39,prolific,"If you had any other ideas you considered applying with, please list them. One may be something we've been waiting for. Often when we fund people it's to do something they list here and not in the main application."
+Successful,49,prolific,Please tell us something surprising or amusing that one of you has discovered.
+Successful,98,prolific,What convinced you to apply to Y Combinator? Did someone encourage you to apply?
+Successful,20,prolific,How did you hear about Y Combinator?
+Successful,0,inevent,"If you have a demo, what's the url? Demo can be anything that shows us how the product works. Usually that's a video or screen recording."
+Successful,7,inevent,Describe what your company does in 50 characters or less.
+Successful,129,inevent,What is your company going to make? Please describe your product and what it does or will do.
+Successful,17,inevent,"Where do you live now, and where would the company be based after YC?"
+Successful,0,inevent,Please enter the url of a 1 minute unlisted (not private) YouTube video introducing the founder(s). This video is an important part of the application. (Follow the Video Guidelines.)
+Successful,12,inevent,"Please tell us about an interesting project, preferably outside of class or work, that two or more of you created together. Include urls if possible."
+Successful,41,inevent,How long have the founders known one another and how did you meet? Have any of the founders not met in person?
+Successful,1,inevent,Which category best applies to your company?
+Successful,1,inevent,Is this application in response to a YC RFS?
+Successful,41,inevent,How far along are you?
+Successful,37,inevent,How long have each of you been working on this? How much of that has been full-time? Please explain.
+Successful,1,inevent,Which of the following best describes your progress?
+Successful,109,inevent,"How many active users or customers do you have? If you have some particularly valuable customers, who are they? If you're building hardware, how many units have you shipped?"
+Successful,1,inevent,Do you have revenue?
+Successful,6,inevent,We're interested in your revenue over the last several months. (Not cumulative and not GMV).
+Successful,20,inevent,Anything else you would like us to know regarding your revenue or growth rate?
+Successful,32,inevent,"If you are applying with the same idea as a previous batch, did anything change? If you applied with a different idea, why did you pivot and what did you learn from the last idea?"
+Successful,17,inevent,"If you have already participated or committed to participate in an incubator, ""accelerator"" or ""pre-accelerator"" program, please tell us about it."
+Successful,45,inevent,Why did you pick this idea to work on? Do you have domain expertise in this area? How do you know people need what you're making?
+Successful,63,inevent,What's new about what you're making? What substitutes do people resort to because it doesn't exist yet (or they don't know about it)?
+Successful,32,inevent,"Who are your competitors, and who might become competitors? Who do you fear most?"
+Successful,57,inevent,What do you understand about your business that other companies in it just don't get?
+Successful,27,inevent,How do or will you make money? How much could you make?
+Successful,63,inevent,"How will you get users? If your idea is the type that faces a chicken-and-egg problem in the sense that it won't be attractive to users till it has a lot of users (e.g. a marketplace, a dating site, an ad network), how will you overcome that?"
+Successful,1,inevent,"Have you incorporated, or formed any legal entity (like an LLC) yet?"
+Successful,3,inevent,What kind of entity and in what state or country was the entity formed?
+Successful,10,inevent,"Please describe the breakdown of the equity ownership in percentages among the founders, employees and any other stockholders. If there are multiple founders, be sure to give the equity ownership of each founder."
+Successful,1,inevent,"List any investments your company has received. Include the name of the investor, the amount invested, the premoney valuation / valuation cap, and the type of security sold (convertible notes, safes or stock)."
+Successful,1,inevent,How much money do you spend per month?
+Successful,1,inevent,How much money does your company have in the bank now?
+Successful,2,inevent,How long is your runway?
+Successful,3,inevent,Please provide any other relevant information about the structure or formation of the company.
+Successful,1,inevent,"Are any of the founders covered by noncompetes or intellectual property agreements that overlap with your project? If so, please explain."
+Successful,28,inevent,"Who writes code, or does other technical work on your product? Was any of it done by a non-founder? Please explain."
+Successful,1,inevent,Is there anything else we should know about your company?
+Successful,22,inevent,"If you had any other ideas you considered applying with, please list them. One may be something we've been waiting for. Often when we fund people it's to do something they list here and not in the main application."
+Successful,64,inevent,Please tell us something surprising or amusing that one of you has discovered.
+Successful,2,inevent,What convinced you to apply to Y Combinator? Did someone encourage you to apply?
+Successful,5,inevent,How did you hear about Y Combinator?
+Successful,1,magicbell,"If you have a demo, what's the url? Demo can be anything that shows us how the product works. Usually that's a video or screen recording."
+Successful,8,magicbell,Describe what your company does in 50 characters or less.
+Successful,102,magicbell,What is your company going to make? Please describe your product and what it does or will do.
+Successful,14,magicbell,"Where do you live now, and where would the company be based after YC?"
+Successful,0,magicbell,Please enter the url of a 1 minute unlisted (not private) YouTube video introducing the founder(s). This video is an important part of the application. (Follow the Video Guidelines.)
+Successful,1,magicbell,How many founders are on the team?
+Successful,2,magicbell,Which category best applies to your company?
+Successful,76,magicbell,How far along are you?
+Successful,12,magicbell,How long have each of you been working on this? How much of that has been full-time? Please explain.
+Successful,1,magicbell,Are people using your product?
+Successful,64,magicbell,"How many active users or customers do you have? If you have some particularly valuable customers, who are they? If you're building hardware, how many units have you shipped?"
+Successful,1,magicbell,Do you have revenue?
+Successful,2,magicbell,We're interested in your revenue over the last several months. (Not cumulative and not GMV).
+Successful,42,magicbell,Anything else you would like us to know regarding your revenue or growth rate?
+Successful,141,magicbell,Why did you pick this idea to work on? Do you have domain expertise in this area? How do you know people need what you're making?
+Successful,74,magicbell,What's new about what you're making? What substitutes do people resort to because it doesn't exist yet (or they don't know about it)?
+Successful,52,magicbell,"Who are your competitors, and who might become competitors? Who do you fear most?"
+Successful,117,magicbell,What do you understand about your business that other companies in it just don't get?
+Successful,102,magicbell,How do or will you make money? How much could you make?
+Successful,81,magicbell,"How will you get users? If your idea is the type that faces a chicken-and-egg problem in the sense that it won't be attractive to users till it has a lot of users (e.g. a marketplace, a dating site, an ad network), how will you overcome that?"
+Successful,11,magicbell,"Who writes code, or does other technical work on your product? Was any of it done by a non-founder? Please explain."
+Successful,43,magicbell,Please tell us something surprising or amusing that one of you has discovered.
+Successful,40,magicbell,What convinced you to apply to Y Combinator? Did someone encourage you to apply?
+Successful,28,magicbell,How did you hear about Y Combinator?
+Successful,44,athletenet-familyleaf,What is your company going to make? Please describe your product and what it does or will do.
+Successful,23,athletenet-familyleaf,"Where do you live now, and where would the company be based after YC?"
+Successful,1,athletenet-familyleaf,Please enter the url of a 1 minute unlisted (not private) YouTube video introducing the founder(s). This video is an important part of the application. (Follow the Video Guidelines.)
+Successful,70,athletenet-familyleaf,"Please tell us about an interesting project, preferably outside of class or work, that two or more of you created together. Include urls if possible."
+Successful,156,athletenet-familyleaf,Please tell us in one or two sentences about something impressive that each founder has built or achieved.
+Successful,82,athletenet-familyleaf,Please tell us about the time you most successfully hacked some (non-computer) system to your advantage.
+Successful,47,athletenet-familyleaf,How long have the founders known one another and how did you meet? Have any of the founders not met in person?
+Successful,3,athletenet-familyleaf,"If we fund you, which of the founders will commit to working exclusively (no school, no other jobs) on this project for the next year?"
+Successful,1,athletenet-familyleaf,Do any founders have other commitments between X and Y inclusive?
+Successful,10,athletenet-familyleaf,"Do any founders have commitments in the future (e.g. finishing college, going to grad school), and if so what?"
+Successful,9,athletenet-familyleaf,How far along are you?
+Successful,6,athletenet-familyleaf,How long have each of you been working on this? How much of that has been full-time? Please explain.
+Successful,107,athletenet-familyleaf,Why did you pick this idea to work on? Do you have domain expertise in this area? How do you know people need what you're making?
+Successful,133,athletenet-familyleaf,What's new about what you're making? What substitutes do people resort to because it doesn't exist yet (or they don't know about it)?
+Successful,17,athletenet-familyleaf,"Who are your competitors, and who might become competitors? Who do you fear most?"
+Successful,114,athletenet-familyleaf,What do you understand about your business that other companies in it just don't get?
+Successful,56,athletenet-familyleaf,How do or will you make money? How much could you make?
+Successful,109,athletenet-familyleaf,"How will you get users? If your idea is the type that faces a chicken-and-egg problem in the sense that it won't be attractive to users till it has a lot of users (e.g. a marketplace, a dating site, an ad network), how will you overcome that?"
+Successful,1,athletenet-familyleaf,"Have you incorporated, or formed any legal entity (like an LLC) yet?"
+Successful,1,athletenet-familyleaf,"Are any of the founders covered by noncompetes or intellectual property agreements that overlap with your project? If so, please explain."
+Successful,1,athletenet-familyleaf,"Who writes code, or does other technical work on your product? Was any of it done by a non-founder? Please explain."
+Successful,70,athletenet-familyleaf,"If you had any other ideas you considered applying with, please list them. One may be something we've been waiting for. Often when we fund people it's to do something they list here and not in the main application."
+Successful,77,athletenet-familyleaf,Please tell us something surprising or amusing that one of you has discovered.
+Successful,15,one-month-rails,"If you have a demo, what's the url? Demo can be anything that shows us how the product works. Usually that's a video or screen recording."
+Successful,8,one-month-rails,What is your company going to make? Please describe your product and what it does or will do.
+Successful,3,one-month-rails,"Where do you live now, and where would the company be based after YC?"
+Successful,120,one-month-rails,"Please tell us about an interesting project, preferably outside of class or work, that two or more of you created together. Include urls if possible."
+Successful,42,one-month-rails,Please tell us in one or two sentences about something impressive that each founder has built or achieved.
+Successful,158,one-month-rails,Please tell us about the time you most successfully hacked some (non-computer) system to your advantage.
+Successful,95,one-month-rails,How long have the founders known one another and how did you meet? Have any of the founders not met in person?
+Successful,3,one-month-rails,"If we fund you, which of the founders will commit to working exclusively (no school, no other jobs) on this project for the next year?"
+Successful,12,one-month-rails,Do any founders have other commitments between X and Y inclusive?
+Successful,1,one-month-rails,"Do any founders have commitments in the future (e.g. finishing college, going to grad school), and if so what?"
+Successful,199,one-month-rails,How long have each of you been working on this? How much of that has been full-time? Please explain.
+Successful,172,one-month-rails,Why did you pick this idea to work on? Do you have domain expertise in this area? How do you know people need what you're making?
+Successful,210,one-month-rails,What's new about what you're making? What substitutes do people resort to because it doesn't exist yet (or they don't know about it)?
+Successful,76,one-month-rails,"Who are your competitors, and who might become competitors? Who do you fear most?"
+Successful,117,one-month-rails,What do you understand about your business that other companies in it just don't get?
+Successful,232,one-month-rails,How do or will you make money? How much could you make?
+Successful,55,one-month-rails,"How will you get users? If your idea is the type that faces a chicken-and-egg problem in the sense that it won't be attractive to users till it has a lot of users (e.g. a marketplace, a dating site, an ad network), how will you overcome that?"
+Successful,21,one-month-rails,What kind of entity and in what state or country was the entity formed?
+Successful,33,one-month-rails,"Please describe the breakdown of the equity ownership in percentages among the founders, employees and any other stockholders. If there are multiple founders, be sure to give the equity ownership of each founder."
+Successful,18,one-month-rails,"Are any of the founders covered by noncompetes or intellectual property agreements that overlap with your project? If so, please explain."
+Successful,9,one-month-rails,"Who writes code, or does other technical work on your product? Was any of it done by a non-founder? Please explain."
+Successful,30,one-month-rails,"If you had any other ideas you considered applying with, please list them. One may be something we've been waiting for. Often when we fund people it's to do something they list here and not in the main application."
+Successful,15,one-month-rails,Please tell us something surprising or amusing that one of you has discovered.
+Successful,1,athens-research,"If you have a demo, what's the url? Demo can be anything that shows us how the product works. Usually that's a video or screen recording."
+Successful,3,athens-research,Describe what your company does in 50 characters or less.
+Successful,34,athens-research,What is your company going to make? Please describe your product and what it does or will do.
+Successful,5,athens-research,"Where do you live now, and where would the company be based after YC?"
+Successful,0,athens-research,Please enter the url of a 1 minute unlisted (not private) YouTube video introducing the founder(s). This video is an important part of the application. (Follow the Video Guidelines.)
+Successful,10,athens-research,Please tell us in one or two sentences about something impressive that each founder has built or achieved.
+Successful,1,athens-research,How many founders are on the team?
+Successful,1,athens-research,Do any founders have other commitments between X and Y inclusive?
+Successful,1,athens-research,"Do any founders have commitments in the future (e.g. finishing college, going to grad school), and if so what?"
+Successful,1,athens-research,Which category best applies to your company?
+Successful,19,athens-research,How far along are you?
+Successful,4,athens-research,How long have each of you been working on this? How much of that has been full-time? Please explain.
+Successful,1,athens-research,Are people using your product?
+Successful,1,athens-research,"How many active users or customers do you have? If you have some particularly valuable customers, who are they? If you're building hardware, how many units have you shipped?"
+Successful,1,athens-research,Do you have revenue?
+Successful,6,athens-research,We're interested in your revenue over the last several months. (Not cumulative and not GMV).
+Successful,21,athens-research,Anything else you would like us to know regarding your revenue or growth rate?
+Successful,37,athens-research,Why did you pick this idea to work on? Do you have domain expertise in this area? How do you know people need what you're making?
+Successful,28,athens-research,What's new about what you're making? What substitutes do people resort to because it doesn't exist yet (or they don't know about it)?
+Successful,7,athens-research,"Who are your competitors, and who might become competitors? Who do you fear most?"
+Successful,11,athens-research,What do you understand about your business that other companies in it just don't get?
+Successful,60,athens-research,How do or will you make money? How much could you make?
+Successful,12,athens-research,"How will you get users? If your idea is the type that faces a chicken-and-egg problem in the sense that it won't be attractive to users till it has a lot of users (e.g. a marketplace, a dating site, an ad network), how will you overcome that?"
+Successful,1,athens-research,"Have you incorporated, or formed any legal entity (like an LLC) yet?"
+Successful,17,athens-research,"Who writes code, or does other technical work on your product? Was any of it done by a non-founder? Please explain."
+Successful,9,athens-research,Please tell us something surprising or amusing that one of you has discovered.
+Successful,19,the-muse,"If you have a demo, what's the url? Demo can be anything that shows us how the product works. Usually that's a video or screen recording."
+Successful,71,the-muse,What is your company going to make? Please describe your product and what it does or will do.
+Successful,15,the-muse,"Where do you live now, and where would the company be based after YC?"
+Successful,0,the-muse,Please enter the url of a 1 minute unlisted (not private) YouTube video introducing the founder(s). This video is an important part of the application. (Follow the Video Guidelines.)
+Successful,114,the-muse,"Please tell us about an interesting project, preferably outside of class or work, that two or more of you created together. Include urls if possible."
+Successful,230,the-muse,Please tell us in one or two sentences about something impressive that each founder has built or achieved.
+Successful,129,the-muse,Please tell us about the time you most successfully hacked some (non-computer) system to your advantage.
+Successful,186,the-muse,How long have the founders known one another and how did you meet? Have any of the founders not met in person?
+Successful,101,the-muse,"If we fund you, which of the founders will commit to working exclusively (no school, no other jobs) on this project for the next year?"
+Successful,42,the-muse,"For founders who can’t, why not? What level of commitment are they willing to make?"
+Successful,7,the-muse,Do any founders have other commitments between X and Y inclusive?
+Successful,12,the-muse,"Do any founders have commitments in the future (e.g. finishing college, going to grad school), and if so what?"
+Successful,61,the-muse,How far along are you?
+Successful,54,the-muse,How long have each of you been working on this? How much of that has been full-time? Please explain.
+Successful,116,the-muse,Why did you pick this idea to work on? Do you have domain expertise in this area? How do you know people need what you're making?
+Successful,148,the-muse,What's new about what you're making? What substitutes do people resort to because it doesn't exist yet (or they don't know about it)?
+Successful,159,the-muse,"Who are your competitors, and who might become competitors? Who do you fear most?"
+Successful,59,the-muse,What do you understand about your business that other companies in it just don't get?
+Successful,326,the-muse,How do or will you make money? How much could you make?
+Successful,162,the-muse,"How will you get users? If your idea is the type that faces a chicken-and-egg problem in the sense that it won't be attractive to users till it has a lot of users (e.g. a marketplace, a dating site, an ad network), how will you overcome that?"
+Successful,25,the-muse,"Are any of the founders covered by noncompetes or intellectual property agreements that overlap with your project? If so, please explain."
+Successful,105,the-muse,"Who writes code, or does other technical work on your product? Was any of it done by a non-founder? Please explain."
+Successful,2,the-muse,"If you had any other ideas you considered applying with, please list them. One may be something we've been waiting for. Often when we fund people it's to do something they list here and not in the main application."
+Successful,12,the-muse,Please tell us something surprising or amusing that one of you has discovered.
+Successful,1,virtually,"If you have a demo, what's the url? Demo can be anything that shows us how the product works. Usually that's a video or screen recording."
+Successful,4,virtually,Describe what your company does in 50 characters or less.
+Successful,44,virtually,What is your company going to make? Please describe your product and what it does or will do.
+Successful,7,virtually,"Where do you live now, and where would the company be based after YC?"
+Successful,0,virtually,Please enter the url of a 1 minute unlisted (not private) YouTube video introducing the founder(s). This video is an important part of the application. (Follow the Video Guidelines.)
+Successful,3,virtually,Which category best applies to your company?
+Successful,75,virtually,How far along are you?
+Successful,38,virtually,How long have each of you been working on this? How much of that has been full-time? Please explain.
+Successful,1,virtually,Are people using your product?
+Successful,37,virtually,"How many active users or customers do you have? If you have some particularly valuable customers, who are they? If you're building hardware, how many units have you shipped?"
+Successful,1,virtually,Do you have revenue?
+Successful,9,virtually,How much revenue?
+Successful,103,virtually,"If you are applying with the same idea as a previous batch, did anything change? If you applied with a different idea, why did you pivot and what did you learn from the last idea?"
+Successful,1,virtually,"If you have already participated or committed to participate in an incubator, ""accelerator"" or ""pre-accelerator"" program, please tell us about it."
+Successful,71,virtually,Why did you pick this idea to work on? Do you have domain expertise in this area? How do you know people need what you're making?
+Successful,104,virtually,What's new about what you're making? What substitutes do people resort to because it doesn't exist yet (or they don't know about it)?
+Successful,49,virtually,"Who are your competitors, and who might become competitors? Who do you fear most?"
+Successful,179,virtually,What do you understand about your business that other companies in it just don't get?
+Successful,70,virtually,How do or will you make money? How much could you make?
+Successful,42,virtually,"How will you get users? If your idea is the type that faces a chicken-and-egg problem in the sense that it won't be attractive to users till it has a lot of users (e.g. a marketplace, a dating site, an ad network), how will you overcome that?"
+Successful,1,virtually,"Have you incorporated, or formed any legal entity (like an LLC) yet?"
+Successful,5,virtually,What kind of entity and in what state or country was the entity formed?
+Successful,1,virtually,Please provide any other relevant information about the structure or formation of the company.
+Successful,1,virtually,"Are any of the founders covered by noncompetes or intellectual property agreements that overlap with your project? If so, please explain."
+Successful,13,virtually,"Who writes code, or does other technical work on your product? Was any of it done by a non-founder? Please explain."
+Successful,1,virtually,Is there anything else we should know about your company?
+Successful,1,virtually,"If you had any other ideas you considered applying with, please list them. One may be something we've been waiting for. Often when we fund people it's to do something they list here and not in the main application."
+Successful,1,virtually,Please tell us something surprising or amusing that one of you has discovered.
+Successful,56,virtually,What convinced you to apply to Y Combinator? Did someone encourage you to apply?
+Successful,8,virtually,How did you hear about Y Combinator?
+Successful,1,apptimize,"If you have a demo, what's the url? Demo can be anything that shows us how the product works. Usually that's a video or screen recording."
+Successful,111,apptimize,What is your company going to make? Please describe your product and what it does or will do.
+Successful,76,apptimize,"Please tell us about an interesting project, preferably outside of class or work, that two or more of you created together. Include urls if possible."
+Successful,76,apptimize,Please tell us in one or two sentences about something impressive that each founder has built or achieved.
+Successful,114,apptimize,Please tell us about the time you most successfully hacked some (non-computer) system to your advantage.
+Successful,23,apptimize,How long have the founders known one another and how did you meet? Have any of the founders not met in person?
+Successful,15,apptimize,"If we fund you, which of the founders will commit to working exclusively (no school, no other jobs) on this project for the next year?"
+Successful,108,apptimize,How far along are you?
+Successful,37,apptimize,How long have each of you been working on this? How much of that has been full-time? Please explain.
+Successful,99,apptimize,Why did you pick this idea to work on? Do you have domain expertise in this area? How do you know people need what you're making?
+Successful,112,apptimize,What's new about what you're making? What substitutes do people resort to because it doesn't exist yet (or they don't know about it)?
+Successful,96,apptimize,"Who are your competitors, and who might become competitors? Who do you fear most?"
+Successful,118,apptimize,What do you understand about your business that other companies in it just don't get?
+Successful,116,apptimize,How do or will you make money? How much could you make?
+Successful,104,apptimize,"How will you get users? If your idea is the type that faces a chicken-and-egg problem in the sense that it won't be attractive to users till it has a lot of users (e.g. a marketplace, a dating site, an ad network), how will you overcome that?"
+Successful,63,apptimize,"If you had any other ideas you considered applying with, please list them. One may be something we've been waiting for. Often when we fund people it's to do something they list here and not in the main application."
+Successful,12,apptimize,Please tell us something surprising or amusing that one of you has discovered.
+Successful,1,derivative-d-shotput,"If you have a demo, what's the url? Demo can be anything that shows us how the product works. Usually that's a video or screen recording."
+Successful,51,derivative-d-shotput,What is your company going to make? Please describe your product and what it does or will do.
+Successful,20,derivative-d-shotput,"Where do you live now, and where would the company be based after YC?"
+Successful,0,derivative-d-shotput,Please enter the url of a 1 minute unlisted (not private) YouTube video introducing the founder(s). This video is an important part of the application. (Follow the Video Guidelines.)
+Successful,77,derivative-d-shotput,"Please tell us about an interesting project, preferably outside of class or work, that two or more of you created together. Include urls if possible."
+Successful,76,derivative-d-shotput,How long have the founders known one another and how did you meet? Have any of the founders not met in person?
+Successful,1,derivative-d-shotput,Is this application in response to a YC RFS?
+Successful,2,derivative-d-shotput,"If yes, which one?"
+Successful,36,derivative-d-shotput,How far along are you?
+Successful,2,derivative-d-shotput,How long have each of you been working on this? How much of that has been full-time? Please explain.
+Successful,2,derivative-d-shotput,Which of the following best describes your progress?
+Successful,3,derivative-d-shotput,"How many active users or customers do you have? If you have some particularly valuable customers, who are they? If you're building hardware, how many units have you shipped?"
+Successful,6,derivative-d-shotput,When will you have a prototype or beta?
+Successful,1,derivative-d-shotput,Do you have revenue?
+Successful,1,derivative-d-shotput,How much revenue?
+Successful,1,derivative-d-shotput,What is your monthly growth rate?
+Successful,1,derivative-d-shotput,"If you are applying with the same idea as a previous batch, did anything change? If you applied with a different idea, why did you pivot and what did you learn from the last idea?"
+Successful,1,derivative-d-shotput,"If you have already participated or committed to participate in an incubator, ""accelerator"" or ""pre-accelerator"" program, please tell us about it."
+Successful,113,derivative-d-shotput,Why did you pick this idea to work on? Do you have domain expertise in this area? How do you know people need what you're making?
+Successful,123,derivative-d-shotput,What's new about what you're making? What substitutes do people resort to because it doesn't exist yet (or they don't know about it)?
+Successful,8,derivative-d-shotput,"Who are your competitors, and who might become competitors? Who do you fear most?"
+Successful,96,derivative-d-shotput,What do you understand about your business that other companies in it just don't get?
+Successful,86,derivative-d-shotput,How do or will you make money? How much could you make?
+Successful,66,derivative-d-shotput,"How will you get users? If your idea is the type that faces a chicken-and-egg problem in the sense that it won't be attractive to users till it has a lot of users (e.g. a marketplace, a dating site, an ad network), how will you overcome that?"
+Successful,41,derivative-d-shotput,Please tell us something surprising or amusing that one of you has discovered.
+Successful,6,simple-habit,Describe what your company does in 50 characters or less.
+Successful,87,simple-habit,What is your company going to make? Please describe your product and what it does or will do.
+Successful,78,simple-habit,How far along are you?
+Successful,23,simple-habit,How long have each of you been working on this? How much of that has been full-time? Please explain.
+Successful,14,simple-habit,"How many active users or customers do you have? If you have some particularly valuable customers, who are they? If you're building hardware, how many units have you shipped?"
+Successful,13,simple-habit,What is your monthly growth rate?
+Successful,21,simple-habit,We're interested in your revenue over the last several months. (Not cumulative and not GMV).
+Successful,147,simple-habit,Why did you pick this idea to work on? Do you have domain expertise in this area? How do you know people need what you're making?
+Successful,122,simple-habit,What's new about what you're making? What substitutes do people resort to because it doesn't exist yet (or they don't know about it)?
+Successful,139,simple-habit,What do you understand about your business that other companies in it just don't get?
+Successful,137,simple-habit,How do or will you make money? How much could you make?
+Successful,18,simple-habit,"List any investments your company has received. Include the name of the investor, the amount invested, the premoney valuation / valuation cap, and the type of security sold (convertible notes, safes or stock)."
+Successful,61,simple-habit,What convinced you to apply to Y Combinator? Did someone encourage you to apply?
+Successful,26,simple-habit,How did you hear about Y Combinator?
+Successful,3,paystack,"If you have a demo, what's the url? Demo can be anything that shows us how the product works. Usually that's a video or screen recording."
+Successful,11,paystack,Describe what your company does in 50 characters or less.
+Successful,72,paystack,What is your company going to make? Please describe your product and what it does or will do.
+Successful,2,paystack,"Where do you live now, and where would the company be based after YC?"
+Successful,1,paystack,Please enter the url of a 1 minute unlisted (not private) YouTube video introducing the founder(s). This video is an important part of the application. (Follow the Video Guidelines.)
+Successful,2,paystack,Which category best applies to your company?
+Successful,1,paystack,Is this application in response to a YC RFS?
+Successful,19,paystack,How far along are you?
+Successful,3,paystack,How long have each of you been working on this? How much of that has been full-time? Please explain.
+Successful,2,paystack,Which of the following best describes your progress?
+Successful,11,paystack,"How many active users or customers do you have? If you have some particularly valuable customers, who are they? If you're building hardware, how many units have you shipped?"
+Successful,1,paystack,Do you have revenue?
+Successful,1,paystack,How much revenue?
+Successful,14,paystack,What is your monthly growth rate?
+Successful,20,paystack,"If you are applying with the same idea as a previous batch, did anything change? If you applied with a different idea, why did you pivot and what did you learn from the last idea?"
+Successful,172,paystack,Why did you pick this idea to work on? Do you have domain expertise in this area? How do you know people need what you're making?
+Successful,53,paystack,What's new about what you're making? What substitutes do people resort to because it doesn't exist yet (or they don't know about it)?
+Successful,115,paystack,"Who are your competitors, and who might become competitors? Who do you fear most?"
+Successful,35,paystack,What do you understand about your business that other companies in it just don't get?
+Successful,5,paystack,How do or will you make money? How much could you make?
+Successful,49,paystack,"How will you get users? If your idea is the type that faces a chicken-and-egg problem in the sense that it won't be attractive to users till it has a lot of users (e.g. a marketplace, a dating site, an ad network), how will you overcome that?"
+Successful,1,paystack,"Have you incorporated, or formed any legal entity (like an LLC) yet?"
+Successful,6,paystack,What kind of entity and in what state or country was the entity formed?
+Successful,11,paystack,"Please describe the breakdown of the equity ownership in percentages among the founders, employees and any other stockholders. If there are multiple founders, be sure to give the equity ownership of each founder."
+Successful,1,paystack,"Are any of the founders covered by noncompetes or intellectual property agreements that overlap with your project? If so, please explain."
+Successful,11,paystack,"Who writes code, or does other technical work on your product? Was any of it done by a non-founder? Please explain."
+Successful,1,paystack,What convinced you to apply to Y Combinator? Did someone encourage you to apply?
+Successful,6,paystack,How did you hear about Y Combinator?
+Successful,1,gitlab,"If you have a demo, what's the url? Demo can be anything that shows us how the product works. Usually that's a video or screen recording."
+Successful,75,gitlab,What is your company going to make? Please describe your product and what it does or will do.
+Successful,18,gitlab,"Where do you live now, and where would the company be based after YC?"
+Successful,1,gitlab,Please enter the url of a 1 minute unlisted (not private) YouTube video introducing the founder(s). This video is an important part of the application. (Follow the Video Guidelines.)
+Successful,40,gitlab,"Please tell us about an interesting project, preferably outside of class or work, that two or more of you created together. Include urls if possible."
+Successful,34,gitlab,How long have the founders known one another and how did you meet? Have any of the founders not met in person?
+Successful,45,gitlab,How far along are you?
+Successful,7,gitlab,How long have each of you been working on this? How much of that has been full-time? Please explain.
+Successful,1,gitlab,Which of the following best describes your progress?
+Successful,5,gitlab,"How many active users or customers do you have? If you have some particularly valuable customers, who are they? If you're building hardware, how many units have you shipped?"
+Successful,1,gitlab,Do you have revenue?
+Successful,5,gitlab,How much revenue?
+Successful,6,gitlab,What is your monthly growth rate?
+Successful,1,gitlab,"If you are applying with the same idea as a previous batch, did anything change? If you applied with a different idea, why did you pivot and what did you learn from the last idea?"
+Successful,9,gitlab,"If you have already participated or committed to participate in an incubator, ""accelerator"" or ""pre-accelerator"" program, please tell us about it."
+Successful,48,gitlab,Why did you pick this idea to work on? Do you have domain expertise in this area? How do you know people need what you're making?
+Successful,159,gitlab,What's new about what you're making? What substitutes do people resort to because it doesn't exist yet (or they don't know about it)?
+Successful,65,gitlab,"Who are your competitors, and who might become competitors? Who do you fear most?"
+Successful,75,gitlab,What do you understand about your business that other companies in it just don't get?
+Successful,74,gitlab,How do or will you make money? How much could you make?
+Successful,53,gitlab,"How will you get users? If your idea is the type that faces a chicken-and-egg problem in the sense that it won't be attractive to users till it has a lot of users (e.g. a marketplace, a dating site, an ad network), how will you overcome that?"
+Successful,30,gitlab,Please tell us something surprising or amusing that one of you has discovered.
+Unsuccessful,5,mattermark-referly,"If you have a demo, what's the url? Demo can be anything that shows us how the product works. Usually that's a video or screen recording."
+Unsuccessful,66,mattermark-referly,What is your company going to make? Please describe your product and what it does or will do.
+Unsuccessful,28,mattermark-referly,"Where do you live now, and where would the company be based after YC?"
+Unsuccessful,25,mattermark-referly,"Please tell us about an interesting project, preferably outside of class or work, that two or more of you created together. Include urls if possible."
+Unsuccessful,42,mattermark-referly,Please tell us in one or two sentences about something impressive that each founder has built or achieved.
+Unsuccessful,83,mattermark-referly,Please tell us about the time you most successfully hacked some (non-computer) system to your advantage.
+Unsuccessful,175,mattermark-referly,How long have the founders known one another and how did you meet? Have any of the founders not met in person?
+Unsuccessful,3,mattermark-referly,"If we fund you, which of the founders will commit to working exclusively (no school, no other jobs) on this project for the next year?"
+Unsuccessful,1,mattermark-referly,Do any founders have other commitments between X and Y inclusive?
+Unsuccessful,30,mattermark-referly,How far along are you?
+Unsuccessful,38,mattermark-referly,How long have each of you been working on this? How much of that has been full-time? Please explain.
+Unsuccessful,203,mattermark-referly,Why did you pick this idea to work on? Do you have domain expertise in this area? How do you know people need what you're making?
+Unsuccessful,69,mattermark-referly,What's new about what you're making? What substitutes do people resort to because it doesn't exist yet (or they don't know about it)?
+Unsuccessful,13,mattermark-referly,"Who are your competitors, and who might become competitors? Who do you fear most?"
+Unsuccessful,83,mattermark-referly,What do you understand about your business that other companies in it just don't get?
+Unsuccessful,63,mattermark-referly,How do or will you make money? How much could you make?
+Unsuccessful,18,mattermark-referly,"How will you get users? If your idea is the type that faces a chicken-and-egg problem in the sense that it won't be attractive to users till it has a lot of users (e.g. a marketplace, a dating site, an ad network), how will you overcome that?"
+Unsuccessful,4,mattermark-referly,"Please describe the breakdown of the equity ownership in percentages among the founders, employees and any other stockholders. If there are multiple founders, be sure to give the equity ownership of each founder."
+Unsuccessful,1,mattermark-referly,"Are any of the founders covered by noncompetes or intellectual property agreements that overlap with your project? If so, please explain."
+Unsuccessful,6,mattermark-referly,"Who writes code, or does other technical work on your product? Was any of it done by a non-founder? Please explain."
+Unsuccessful,7,mattermark-referly,"If you had any other ideas you considered applying with, please list them. One may be something we've been waiting for. Often when we fund people it's to do something they list here and not in the main application."
+Unsuccessful,18,mattermark-referly,Please tell us something surprising or amusing that one of you has discovered.
+Unsuccessful,8,parsnip,Describe what your company does in 50 characters or less.
+Unsuccessful,182,parsnip,What is your company going to make? Please describe your product and what it does or will do.
+Unsuccessful,7,parsnip,"Where do you live now, and where would the company be based after YC?"
+Unsuccessful,0,parsnip,Please enter the url of a 1 minute unlisted (not private) YouTube video introducing the founder(s). This video is an important part of the application. (Follow the Video Guidelines.)
+Unsuccessful,99,parsnip,Please tell us in one or two sentences about something impressive that each founder has built or achieved.
+Unsuccessful,705,parsnip,Please tell us about the time you most successfully hacked some (non-computer) system to your advantage.
+Unsuccessful,1,parsnip,How many founders are on the team?
+Unsuccessful,1,parsnip,"If we fund you, which of the founders will commit to working exclusively (no school, no other jobs) on this project for the next year?"
+Unsuccessful,1,parsnip,Do any founders have other commitments between X and Y inclusive?
+Unsuccessful,7,parsnip,"Do any founders have commitments in the future (e.g. finishing college, going to grad school), and if so what?"
+Unsuccessful,2,parsnip,Which category best applies to your company?
+Unsuccessful,106,parsnip,How far along are you?
+Unsuccessful,19,parsnip,How long have each of you been working on this? How much of that has been full-time? Please explain.
+Unsuccessful,1,parsnip,Are people using your product?
+Unsuccessful,237,parsnip,Why did you pick this idea to work on? Do you have domain expertise in this area? How do you know people need what you're making?
+Unsuccessful,191,parsnip,What's new about what you're making? What substitutes do people resort to because it doesn't exist yet (or they don't know about it)?
+Unsuccessful,207,parsnip,"Who are your competitors, and who might become competitors? Who do you fear most?"
+Unsuccessful,369,parsnip,What do you understand about your business that other companies in it just don't get?
+Unsuccessful,190,parsnip,How do or will you make money? How much could you make?
+Unsuccessful,159,parsnip,"How will you get users? If your idea is the type that faces a chicken-and-egg problem in the sense that it won't be attractive to users till it has a lot of users (e.g. a marketplace, a dating site, an ad network), how will you overcome that?"
+Unsuccessful,1,parsnip,"Have you incorporated, or formed any legal entity (like an LLC) yet?"
+Unsuccessful,1,parsnip,What kind of entity and in what state or country was the entity formed?
+Unsuccessful,91,parsnip,"Please describe the breakdown of the equity ownership in percentages among the founders, employees and any other stockholders. If there are multiple founders, be sure to give the equity ownership of each founder."
+Unsuccessful,1,parsnip,Have you taken any investment yet?
+Unsuccessful,1,parsnip,"Are any of the founders covered by noncompetes or intellectual property agreements that overlap with your project? If so, please explain."
+Unsuccessful,8,parsnip,"Who writes code, or does other technical work on your product? Was any of it done by a non-founder? Please explain."
+Unsuccessful,1,parsnip,Is there anything else we should know about your company?
+Unsuccessful,115,parsnip,"If you had any other ideas you considered applying with, please list them. One may be something we've been waiting for. Often when we fund people it's to do something they list here and not in the main application."
+Unsuccessful,41,parsnip,Please tell us something surprising or amusing that one of you has discovered.
+Unsuccessful,170,parsnip,What convinced you to apply to Y Combinator? Did someone encourage you to apply?
+Unsuccessful,7,laitum,Describe what your company does in 50 characters or less.
+Unsuccessful,69,laitum,What is your company going to make? Please describe your product and what it does or will do.
+Unsuccessful,71,laitum,How far along are you?
+Unsuccessful,71,laitum,How long have each of you been working on this? How much of that has been full-time? Please explain.
+Unsuccessful,54,laitum,"If you are applying with the same idea as a previous batch, did anything change? If you applied with a different idea, why did you pivot and what did you learn from the last idea?"
+Unsuccessful,44,laitum,"If you have already participated or committed to participate in an incubator, ""accelerator"" or ""pre-accelerator"" program, please tell us about it."
+Unsuccessful,135,laitum,Why did you pick this idea to work on? Do you have domain expertise in this area? How do you know people need what you're making?
+Unsuccessful,82,laitum,What's new about what you're making? What substitutes do people resort to because it doesn't exist yet (or they don't know about it)?
+Unsuccessful,95,laitum,"Who are your competitors, and who might become competitors? Who do you fear most?"
+Unsuccessful,38,laitum,What do you understand about your business that other companies in it just don't get?
+Unsuccessful,23,laitum,How do or will you make money? How much could you make?
+Unsuccessful,115,laitum,"How will you get users? If your idea is the type that faces a chicken-and-egg problem in the sense that it won't be attractive to users till it has a lot of users (e.g. a marketplace, a dating site, an ad network), how will you overcome that?"
+Unsuccessful,9,laitum,Please provide any other relevant information about the structure or formation of the company.
+Unsuccessful,1,laitum,"Are any of the founders covered by noncompetes or intellectual property agreements that overlap with your project? If so, please explain."
+Unsuccessful,43,laitum,"Who writes code, or does other technical work on your product? Was any of it done by a non-founder? Please explain."
+Unsuccessful,35,laitum,Is there anything else we should know about your company?
+Unsuccessful,49,laitum,Please tell us something surprising or amusing that one of you has discovered.
+Unsuccessful,47,laitum,What convinced you to apply to Y Combinator? Did someone encourage you to apply?
+Unsuccessful,7,laitum,How did you hear about Y Combinator?
+Unsuccessful,4,circles,Describe what your company does in 50 characters or less.
+Unsuccessful,46,circles,What is your company going to make? Please describe your product and what it does or will do.
+Unsuccessful,68,circles,"Please tell us about an interesting project, preferably outside of class or work, that two or more of you created together. Include urls if possible."
+Unsuccessful,67,circles,How long have the founders known one another and how did you meet? Have any of the founders not met in person?
+Unsuccessful,62,circles,How far along are you?
+Unsuccessful,31,circles,How long have each of you been working on this? How much of that has been full-time? Please explain.
+Unsuccessful,136,circles,"How many active users or customers do you have? If you have some particularly valuable customers, who are they? If you're building hardware, how many units have you shipped?"
+Unsuccessful,30,circles,Anything else you would like us to know regarding your revenue or growth rate?
+Unsuccessful,88,circles,"If you are applying with the same idea as a previous batch, did anything change? If you applied with a different idea, why did you pivot and what did you learn from the last idea?"
+Unsuccessful,57,circles,Why did you pick this idea to work on? Do you have domain expertise in this area? How do you know people need what you're making?
+Unsuccessful,68,circles,What's new about what you're making? What substitutes do people resort to because it doesn't exist yet (or they don't know about it)?
+Unsuccessful,68,circles,"Who are your competitors, and who might become competitors? Who do you fear most?"
+Unsuccessful,22,circles,What do you understand about your business that other companies in it just don't get?
+Unsuccessful,114,circles,How do or will you make money? How much could you make?
+Unsuccessful,90,circles,"How will you get users? If your idea is the type that faces a chicken-and-egg problem in the sense that it won't be attractive to users till it has a lot of users (e.g. a marketplace, a dating site, an ad network), how will you overcome that?"
+Unsuccessful,16,circles,"Who writes code, or does other technical work on your product? Was any of it done by a non-founder? Please explain."
+Unsuccessful,131,circles,"If you had any other ideas you considered applying with, please list them. One may be something we've been waiting for. Often when we fund people it's to do something they list here and not in the main application."
+Unsuccessful,54,circles,Please tell us something surprising or amusing that one of you has discovered.
+Unsuccessful,0,swelly,"If you have a demo, what's the url? Demo can be anything that shows us how the product works. Usually that's a video or screen recording."
+Unsuccessful,5,swelly,Describe what your company does in 50 characters or less.
+Unsuccessful,42,swelly,What is your company going to make? Please describe your product and what it does or will do.
+Unsuccessful,7,swelly,"Where do you live now, and where would the company be based after YC?"
+Unsuccessful,0,swelly,Please enter the url of a 1 minute unlisted (not private) YouTube video introducing the founder(s). This video is an important part of the application. (Follow the Video Guidelines.)
+Unsuccessful,29,swelly,"Please tell us about an interesting project, preferably outside of class or work, that two or more of you created together. Include urls if possible."
+Unsuccessful,33,swelly,How long have the founders known one another and how did you meet? Have any of the founders not met in person?
+Unsuccessful,1,swelly,Which category best applies to your company?
+Unsuccessful,1,swelly,Is this application in response to a YC RFS?
+Unsuccessful,1,swelly,"If yes, which one?"
+Unsuccessful,21,swelly,How far along are you?
+Unsuccessful,5,swelly,How long have each of you been working on this? How much of that has been full-time? Please explain.
+Unsuccessful,1,swelly,Which of the following best describes your progress?
+Unsuccessful,1,swelly,"How many active users or customers do you have? If you have some particularly valuable customers, who are they? If you're building hardware, how many units have you shipped?"
+Unsuccessful,1,swelly,Do you have revenue?
+Unsuccessful,16,swelly,What is your monthly growth rate?
+Unsuccessful,31,swelly,"If you are applying with the same idea as a previous batch, did anything change? If you applied with a different idea, why did you pivot and what did you learn from the last idea?"
+Unsuccessful,33,swelly,Why did you pick this idea to work on? Do you have domain expertise in this area? How do you know people need what you're making?
+Unsuccessful,24,swelly,What's new about what you're making? What substitutes do people resort to because it doesn't exist yet (or they don't know about it)?
+Unsuccessful,35,swelly,What do you understand about your business that other companies in it just don't get?
+Unsuccessful,78,swelly,How do or will you make money? How much could you make?
+Unsuccessful,40,swelly,"How will you get users? If your idea is the type that faces a chicken-and-egg problem in the sense that it won't be attractive to users till it has a lot of users (e.g. a marketplace, a dating site, an ad network), how will you overcome that?"
+Unsuccessful,1,swelly,"Have you incorporated, or formed any legal entity (like an LLC) yet?"
+Unsuccessful,3,swelly,What kind of entity and in what state or country was the entity formed?
+Unsuccessful,1,swelly,"Are any of the founders covered by noncompetes or intellectual property agreements that overlap with your project? If so, please explain."
+Unsuccessful,14,swelly,"Who writes code, or does other technical work on your product? Was any of it done by a non-founder? Please explain."
+Unsuccessful,1,swelly,Is there anything else we should know about your company?
+Unsuccessful,81,swelly,"If you had any other ideas you considered applying with, please list them. One may be something we've been waiting for. Often when we fund people it's to do something they list here and not in the main application."
+Unsuccessful,12,swelly,Please tell us something surprising or amusing that one of you has discovered.
+Unsuccessful,7,swelly,What convinced you to apply to Y Combinator? Did someone encourage you to apply?
+Unsuccessful,2,swelly,How did you hear about Y Combinator?
+Unsuccessful,0,employbl,"If you have a demo, what's the url? Demo can be anything that shows us how the product works. Usually that's a video or screen recording."
+Unsuccessful,8,employbl,Describe what your company does in 50 characters or less.
+Unsuccessful,34,employbl,What is your company going to make? Please describe your product and what it does or will do.
+Unsuccessful,2,employbl,"Where do you live now, and where would the company be based after YC?"
+Unsuccessful,0,employbl,Please enter the url of a 1 minute unlisted (not private) YouTube video introducing the founder(s). This video is an important part of the application. (Follow the Video Guidelines.)
+Unsuccessful,1,employbl,Which category best applies to your company?
+Unsuccessful,42,employbl,How far along are you?
+Unsuccessful,60,employbl,How long have each of you been working on this? How much of that has been full-time? Please explain.
+Unsuccessful,1,employbl,Are people using your product?
+Unsuccessful,65,employbl,"How many active users or customers do you have? If you have some particularly valuable customers, who are they? If you're building hardware, how many units have you shipped?"
+Unsuccessful,1,employbl,Do you have revenue?
+Unsuccessful,72,employbl,Anything else you would like us to know regarding your revenue or growth rate?
+Unsuccessful,8,employbl,"If you are applying with the same idea as a previous batch, did anything change? If you applied with a different idea, why did you pivot and what did you learn from the last idea?"
+Unsuccessful,7,employbl,"If you have already participated or committed to participate in an incubator, ""accelerator"" or ""pre-accelerator"" program, please tell us about it."
+Unsuccessful,117,employbl,Why did you pick this idea to work on? Do you have domain expertise in this area? How do you know people need what you're making?
+Unsuccessful,79,employbl,What's new about what you're making? What substitutes do people resort to because it doesn't exist yet (or they don't know about it)?
+Unsuccessful,12,employbl,"Who are your competitors, and who might become competitors? Who do you fear most?"
+Unsuccessful,16,employbl,What do you understand about your business that other companies in it just don't get?
+Unsuccessful,30,employbl,How do or will you make money? How much could you make?
+Unsuccessful,100,employbl,"How will you get users? If your idea is the type that faces a chicken-and-egg problem in the sense that it won't be attractive to users till it has a lot of users (e.g. a marketplace, a dating site, an ad network), how will you overcome that?"
+Unsuccessful,1,employbl,"Have you incorporated, or formed any legal entity (like an LLC) yet?"
+Unsuccessful,3,employbl,What kind of entity and in what state or country was the entity formed?
+Unsuccessful,5,employbl,"Please describe the breakdown of the equity ownership in percentages among the founders, employees and any other stockholders. If there are multiple founders, be sure to give the equity ownership of each founder."
+Unsuccessful,18,employbl,"Are any of the founders covered by noncompetes or intellectual property agreements that overlap with your project? If so, please explain."
+Unsuccessful,8,employbl,"Who writes code, or does other technical work on your product? Was any of it done by a non-founder? Please explain."
+Unsuccessful,55,employbl,Is there anything else we should know about your company?
+Unsuccessful,45,employbl,"If you had any other ideas you considered applying with, please list them. One may be something we've been waiting for. Often when we fund people it's to do something they list here and not in the main application."
+Unsuccessful,11,employbl,Please tell us something surprising or amusing that one of you has discovered.
+Unsuccessful,9,spreadsheet-magic,"If you have a demo, what's the url? Demo can be anything that shows us how the product works. Usually that's a video or screen recording."
+Unsuccessful,180,spreadsheet-magic,What is your company going to make? Please describe your product and what it does or will do.
+Unsuccessful,21,spreadsheet-magic,"Where do you live now, and where would the company be based after YC?"
+Unsuccessful,1,spreadsheet-magic,Please enter the url of a 1 minute unlisted (not private) YouTube video introducing the founder(s). This video is an important part of the application. (Follow the Video Guidelines.)
+Unsuccessful,22,spreadsheet-magic,"Please tell us about an interesting project, preferably outside of class or work, that two or more of you created together. Include urls if possible."
+Unsuccessful,66,spreadsheet-magic,Please tell us in one or two sentences about something impressive that each founder has built or achieved.
+Unsuccessful,30,spreadsheet-magic,Please tell us about the time you most successfully hacked some (non-computer) system to your advantage.
+Unsuccessful,3,spreadsheet-magic,How long have the founders known one another and how did you meet? Have any of the founders not met in person?
+Unsuccessful,1,spreadsheet-magic,"If we fund you, which of the founders will commit to working exclusively (no school, no other jobs) on this project for the next year?"
+Unsuccessful,1,spreadsheet-magic,"For founders who can’t, why not? What level of commitment are they willing to make?"
+Unsuccessful,24,spreadsheet-magic,Do any founders have other commitments between X and Y inclusive?
+Unsuccessful,1,spreadsheet-magic,"Do any founders have commitments in the future (e.g. finishing college, going to grad school), and if so what?"
+Unsuccessful,1,spreadsheet-magic,Is this application in response to a YC RFS?
+Unsuccessful,3,spreadsheet-magic,"If yes, which one?"
+Unsuccessful,6,spreadsheet-magic,How far along are you?
+Unsuccessful,1,spreadsheet-magic,"If you have already participated or committed to participate in an incubator, ""accelerator"" or ""pre-accelerator"" program, please tell us about it."
+Unsuccessful,198,spreadsheet-magic,Why did you pick this idea to work on? Do you have domain expertise in this area? How do you know people need what you're making?
+Unsuccessful,176,spreadsheet-magic,What's new about what you're making? What substitutes do people resort to because it doesn't exist yet (or they don't know about it)?
+Unsuccessful,51,spreadsheet-magic,"Who are your competitors, and who might become competitors? Who do you fear most?"
+Unsuccessful,149,spreadsheet-magic,What do you understand about your business that other companies in it just don't get?
+Unsuccessful,100,spreadsheet-magic,How do or will you make money? How much could you make?
+Unsuccessful,35,spreadsheet-magic,"How will you get users? If your idea is the type that faces a chicken-and-egg problem in the sense that it won't be attractive to users till it has a lot of users (e.g. a marketplace, a dating site, an ad network), how will you overcome that?"
+Unsuccessful,1,spreadsheet-magic,"Have you incorporated, or formed any legal entity (like an LLC) yet?"
+Unsuccessful,1,spreadsheet-magic,"Are any of the founders covered by noncompetes or intellectual property agreements that overlap with your project? If so, please explain."
+Unsuccessful,3,spreadsheet-magic,"Who writes code, or does other technical work on your product? Was any of it done by a non-founder? Please explain."
+Unsuccessful,25,spreadsheet-magic,"If you had any other ideas you considered applying with, please list them. One may be something we've been waiting for. Often when we fund people it's to do something they list here and not in the main application."
+Unsuccessful,28,spreadsheet-magic,Please tell us something surprising or amusing that one of you has discovered.
+Unsuccessful,0,pet-story,"If you have a demo, what's the url? Demo can be anything that shows us how the product works. Usually that's a video or screen recording."
+Unsuccessful,3,pet-story,"Where do you live now, and where would the company be based after YC?"
+Unsuccessful,67,pet-story,"Please tell us about an interesting project, preferably outside of class or work, that two or more of you created together. Include urls if possible."
+Unsuccessful,63,pet-story,How long have the founders known one another and how did you meet? Have any of the founders not met in person?
+Unsuccessful,1,pet-story,Which category best applies to your company?
+Unsuccessful,29,pet-story,How far along are you?
+Unsuccessful,27,pet-story,How long have each of you been working on this? How much of that has been full-time? Please explain.
+Unsuccessful,1,pet-story,Are people using your product?
+Unsuccessful,73,pet-story,"How many active users or customers do you have? If you have some particularly valuable customers, who are they? If you're building hardware, how many units have you shipped?"
+Unsuccessful,1,pet-story,Do you have revenue?
+Unsuccessful,5,pet-story,"If you are applying with the same idea as a previous batch, did anything change? If you applied with a different idea, why did you pivot and what did you learn from the last idea?"
+Unsuccessful,8,pet-story,"If you have already participated or committed to participate in an incubator, ""accelerator"" or ""pre-accelerator"" program, please tell us about it."
+Unsuccessful,145,pet-story,Why did you pick this idea to work on? Do you have domain expertise in this area? How do you know people need what you're making?
+Unsuccessful,56,pet-story,What's new about what you're making? What substitutes do people resort to because it doesn't exist yet (or they don't know about it)?
+Unsuccessful,31,pet-story,"Who are your competitors, and who might become competitors? Who do you fear most?"
+Unsuccessful,37,pet-story,What do you understand about your business that other companies in it just don't get?
+Unsuccessful,81,pet-story,How do or will you make money? How much could you make?
+Unsuccessful,59,pet-story,"How will you get users? If your idea is the type that faces a chicken-and-egg problem in the sense that it won't be attractive to users till it has a lot of users (e.g. a marketplace, a dating site, an ad network), how will you overcome that?"
+Unsuccessful,1,pet-story,"Have you incorporated, or formed any legal entity (like an LLC) yet?"
+Unsuccessful,1,pet-story,Have you taken any investment yet?
+Unsuccessful,27,pet-story,Please provide any other relevant information about the structure or formation of the company.
+Unsuccessful,1,pet-story,"Are any of the founders covered by noncompetes or intellectual property agreements that overlap with your project? If so, please explain."
+Unsuccessful,53,pet-story,"Who writes code, or does other technical work on your product? Was any of it done by a non-founder? Please explain."
+Unsuccessful,5,pet-story,Is there anything else we should know about your company?
+Unsuccessful,80,pet-story,"If you had any other ideas you considered applying with, please list them. One may be something we've been waiting for. Often when we fund people it's to do something they list here and not in the main application."
+Unsuccessful,33,pet-story,Please tell us something surprising or amusing that one of you has discovered.
+Unsuccessful,66,pet-story,What convinced you to apply to Y Combinator? Did someone encourage you to apply?
+Unsuccessful,11,pet-story,How did you hear about Y Combinator?
+Unsuccessful,0,code-for-cash,"If you have a demo, what's the url? Demo can be anything that shows us how the product works. Usually that's a video or screen recording."
+Unsuccessful,8,code-for-cash,Describe what your company does in 50 characters or less.
+Unsuccessful,120,code-for-cash,What is your company going to make? Please describe your product and what it does or will do.
+Unsuccessful,7,code-for-cash,"Where do you live now, and where would the company be based after YC?"
+Unsuccessful,0,code-for-cash,Please enter the url of a 1 minute unlisted (not private) YouTube video introducing the founder(s). This video is an important part of the application. (Follow the Video Guidelines.)
+Unsuccessful,20,code-for-cash,"Please tell us about an interesting project, preferably outside of class or work, that two or more of you created together. Include urls if possible."
+Unsuccessful,58,code-for-cash,How long have the founders known one another and how did you meet? Have any of the founders not met in person?
+Unsuccessful,1,code-for-cash,Which category best applies to your company?
+Unsuccessful,1,code-for-cash,Is this application in response to a YC RFS?
+Unsuccessful,134,code-for-cash,How far along are you?
+Unsuccessful,19,code-for-cash,How long have each of you been working on this? How much of that has been full-time? Please explain.
+Unsuccessful,2,code-for-cash,Which of the following best describes your progress?
+Unsuccessful,87,code-for-cash,"How many active users or customers do you have? If you have some particularly valuable customers, who are they? If you're building hardware, how many units have you shipped?"
+Unsuccessful,24,code-for-cash,We're interested in your revenue over the last several months. (Not cumulative and not GMV).
+Unsuccessful,156,code-for-cash,Anything else you would like us to know regarding your revenue or growth rate?
+Unsuccessful,475,code-for-cash,"If you are applying with the same idea as a previous batch, did anything change? If you applied with a different idea, why did you pivot and what did you learn from the last idea?"
+Unsuccessful,1,code-for-cash,"If you have already participated or committed to participate in an incubator, ""accelerator"" or ""pre-accelerator"" program, please tell us about it."
+Unsuccessful,169,code-for-cash,Why did you pick this idea to work on? Do you have domain expertise in this area? How do you know people need what you're making?
+Unsuccessful,23,code-for-cash,What's new about what you're making? What substitutes do people resort to because it doesn't exist yet (or they don't know about it)?
+Unsuccessful,66,code-for-cash,"Who are your competitors, and who might become competitors? Who do you fear most?"
+Unsuccessful,336,code-for-cash,What do you understand about your business that other companies in it just don't get?
+Unsuccessful,167,code-for-cash,How do or will you make money? How much could you make?
+Unsuccessful,388,code-for-cash,"How will you get users? If your idea is the type that faces a chicken-and-egg problem in the sense that it won't be attractive to users till it has a lot of users (e.g. a marketplace, a dating site, an ad network), how will you overcome that?"
+Unsuccessful,1,code-for-cash,"Have you incorporated, or formed any legal entity (like an LLC) yet?"
+Unsuccessful,3,code-for-cash,What kind of entity and in what state or country was the entity formed?
+Unsuccessful,32,code-for-cash,"Please describe the breakdown of the equity ownership in percentages among the founders, employees and any other stockholders. If there are multiple founders, be sure to give the equity ownership of each founder."
+Unsuccessful,29,code-for-cash,"List any investments your company has received. Include the name of the investor, the amount invested, the premoney valuation / valuation cap, and the type of security sold (convertible notes, safes or stock)."
+Unsuccessful,1,code-for-cash,How much money do you spend per month?
+Unsuccessful,1,code-for-cash,How much money does your company have in the bank now?
+Unsuccessful,2,code-for-cash,How long is your runway?
+Unsuccessful,74,code-for-cash,Please provide any other relevant information about the structure or formation of the company.
+Unsuccessful,1,code-for-cash,"Are any of the founders covered by noncompetes or intellectual property agreements that overlap with your project? If so, please explain."
+Unsuccessful,45,code-for-cash,"Who writes code, or does other technical work on your product? Was any of it done by a non-founder? Please explain."
+Unsuccessful,66,code-for-cash,Is there anything else we should know about your company?
+Unsuccessful,85,code-for-cash,"If you had any other ideas you considered applying with, please list them. One may be something we've been waiting for. Often when we fund people it's to do something they list here and not in the main application."
+Unsuccessful,99,code-for-cash,Please tell us something surprising or amusing that one of you has discovered.
+Unsuccessful,6,code-for-cash,What convinced you to apply to Y Combinator? Did someone encourage you to apply?
+Unsuccessful,8,code-for-cash,How did you hear about Y Combinator?
+Unsuccessful,6,trestle,Describe what your company does in 50 characters or less.
+Unsuccessful,193,trestle,What is your company going to make? Please describe your product and what it does or will do.
+Unsuccessful,247,trestle,Why did you pick this idea to work on? Do you have domain expertise in this area? How do you know people need what you're making?
+Unsuccessful,151,trestle,What's new about what you're making? What substitutes do people resort to because it doesn't exist yet (or they don't know about it)?
+Unsuccessful,235,trestle,"Who are your competitors, and who might become competitors? Who do you fear most?"
+Unsuccessful,169,trestle,What do you understand about your business that other companies in it just don't get?
+Unsuccessful,140,trestle,How do or will you make money? How much could you make?
+Unsuccessful,118,trestle,"How will you get users? If your idea is the type that faces a chicken-and-egg problem in the sense that it won't be attractive to users till it has a lot of users (e.g. a marketplace, a dating site, an ad network), how will you overcome that?"
+Unsuccessful,0,task-pigeon,"If you have a demo, what's the url? Demo can be anything that shows us how the product works. Usually that's a video or screen recording."
+Unsuccessful,6,task-pigeon,Describe what your company does in 50 characters or less.
+Unsuccessful,110,task-pigeon,What is your company going to make? Please describe your product and what it does or will do.
+Unsuccessful,6,task-pigeon,"Where do you live now, and where would the company be based after YC?"
+Unsuccessful,0,task-pigeon,Please enter the url of a 1 minute unlisted (not private) YouTube video introducing the founder(s). This video is an important part of the application. (Follow the Video Guidelines.)
+Unsuccessful,137,task-pigeon,"Please tell us about an interesting project, preferably outside of class or work, that two or more of you created together. Include urls if possible."
+Unsuccessful,416,task-pigeon,How long have the founders known one another and how did you meet? Have any of the founders not met in person?
+Unsuccessful,1,task-pigeon,Which category best applies to your company?
+Unsuccessful,1,task-pigeon,Is this application in response to a YC RFS?
+Unsuccessful,130,task-pigeon,How far along are you?
+Unsuccessful,172,task-pigeon,How long have each of you been working on this? How much of that has been full-time? Please explain.
+Unsuccessful,1,task-pigeon,Which of the following best describes your progress?
+Unsuccessful,88,task-pigeon,"How many active users or customers do you have? If you have some particularly valuable customers, who are they? If you're building hardware, how many units have you shipped?"
+Unsuccessful,1,task-pigeon,Do you have revenue?
+Unsuccessful,6,task-pigeon,We're interested in your revenue over the last several months. (Not cumulative and not GMV).
+Unsuccessful,58,task-pigeon,Anything else you would like us to know regarding your revenue or growth rate?
+Unsuccessful,8,task-pigeon,"If you are applying with the same idea as a previous batch, did anything change? If you applied with a different idea, why did you pivot and what did you learn from the last idea?"
+Unsuccessful,17,task-pigeon,"If you have already participated or committed to participate in an incubator, ""accelerator"" or ""pre-accelerator"" program, please tell us about it."
+Unsuccessful,364,task-pigeon,Why did you pick this idea to work on? Do you have domain expertise in this area? How do you know people need what you're making?
+Unsuccessful,302,task-pigeon,What's new about what you're making? What substitutes do people resort to because it doesn't exist yet (or they don't know about it)?
+Unsuccessful,194,task-pigeon,"Who are your competitors, and who might become competitors? Who do you fear most?"
+Unsuccessful,164,task-pigeon,What do you understand about your business that other companies in it just don't get?
+Unsuccessful,506,task-pigeon,How do or will you make money? How much could you make?
+Unsuccessful,252,task-pigeon,"How will you get users? If your idea is the type that faces a chicken-and-egg problem in the sense that it won't be attractive to users till it has a lot of users (e.g. a marketplace, a dating site, an ad network), how will you overcome that?"
+Unsuccessful,1,task-pigeon,"Have you incorporated, or formed any legal entity (like an LLC) yet?"
+Unsuccessful,5,task-pigeon,What kind of entity and in what state or country was the entity formed?
+Unsuccessful,8,task-pigeon,"Please describe the breakdown of the equity ownership in percentages among the founders, employees and any other stockholders. If there are multiple founders, be sure to give the equity ownership of each founder."
+Unsuccessful,1,task-pigeon,"List any investments your company has received. Include the name of the investor, the amount invested, the premoney valuation / valuation cap, and the type of security sold (convertible notes, safes or stock)."
+Unsuccessful,1,task-pigeon,How much money do you spend per month?
+Unsuccessful,1,task-pigeon,How much money does your company have in the bank now?
+Unsuccessful,28,task-pigeon,How long is your runway?
+Unsuccessful,33,task-pigeon,Please provide any other relevant information about the structure or formation of the company.
+Unsuccessful,1,task-pigeon,"Are any of the founders covered by noncompetes or intellectual property agreements that overlap with your project? If so, please explain."
+Unsuccessful,171,task-pigeon,"Who writes code, or does other technical work on your product? Was any of it done by a non-founder? Please explain."
+Unsuccessful,1,task-pigeon,Is there anything else we should know about your company?
+Unsuccessful,7,task-pigeon,"If you had any other ideas you considered applying with, please list them. One may be something we've been waiting for. Often when we fund people it's to do something they list here and not in the main application."
+Unsuccessful,173,task-pigeon,Please tell us something surprising or amusing that one of you has discovered.
+Unsuccessful,138,task-pigeon,What convinced you to apply to Y Combinator? Did someone encourage you to apply?
+Unsuccessful,10,task-pigeon,How did you hear about Y Combinator?
+Unsuccessful,1,yogatrail,"If you have a demo, what's the url? Demo can be anything that shows us how the product works. Usually that's a video or screen recording."
+Unsuccessful,82,yogatrail,What is your company going to make? Please describe your product and what it does or will do.
+Unsuccessful,30,yogatrail,"Where do you live now, and where would the company be based after YC?"
+Unsuccessful,1,yogatrail,Please enter the url of a 1 minute unlisted (not private) YouTube video introducing the founder(s). This video is an important part of the application. (Follow the Video Guidelines.)
+Unsuccessful,29,yogatrail,"Please tell us about an interesting project, preferably outside of class or work, that two or more of you created together. Include urls if possible."
+Unsuccessful,96,yogatrail,Please tell us in one or two sentences about something impressive that each founder has built or achieved.
+Unsuccessful,101,yogatrail,Please tell us about the time you most successfully hacked some (non-computer) system to your advantage.
+Unsuccessful,49,yogatrail,How long have the founders known one another and how did you meet? Have any of the founders not met in person?
+Unsuccessful,4,yogatrail,"If we fund you, which of the founders will commit to working exclusively (no school, no other jobs) on this project for the next year?"
+Unsuccessful,1,yogatrail,Do any founders have other commitments between X and Y inclusive?
+Unsuccessful,1,yogatrail,"Do any founders have commitments in the future (e.g. finishing college, going to grad school), and if so what?"
+Unsuccessful,12,yogatrail,How far along are you?
+Unsuccessful,21,yogatrail,How long have each of you been working on this? How much of that has been full-time? Please explain.
+Unsuccessful,2,yogatrail,"If you have already participated or committed to participate in an incubator, ""accelerator"" or ""pre-accelerator"" program, please tell us about it."
+Unsuccessful,122,yogatrail,Why did you pick this idea to work on? Do you have domain expertise in this area? How do you know people need what you're making?
+Unsuccessful,90,yogatrail,What's new about what you're making? What substitutes do people resort to because it doesn't exist yet (or they don't know about it)?
+Unsuccessful,75,yogatrail,"Who are your competitors, and who might become competitors? Who do you fear most?"
+Unsuccessful,162,yogatrail,What do you understand about your business that other companies in it just don't get?
+Unsuccessful,31,yogatrail,How do or will you make money? How much could you make?
+Unsuccessful,43,yogatrail,"How will you get users? If your idea is the type that faces a chicken-and-egg problem in the sense that it won't be attractive to users till it has a lot of users (e.g. a marketplace, a dating site, an ad network), how will you overcome that?"
+Unsuccessful,10,yogatrail,"List any investments your company has received. Include the name of the investor, the amount invested, the premoney valuation / valuation cap, and the type of security sold (convertible notes, safes or stock)."
+Unsuccessful,1,yogatrail,"Are any of the founders covered by noncompetes or intellectual property agreements that overlap with your project? If so, please explain."
+Unsuccessful,24,yogatrail,"Who writes code, or does other technical work on your product? Was any of it done by a non-founder? Please explain."
+Unsuccessful,129,yogatrail,"If you had any other ideas you considered applying with, please list them. One may be something we've been waiting for. Often when we fund people it's to do something they list here and not in the main application."
+Unsuccessful,8,parobyte-technologies,Describe what your company does in 50 characters or less.
+Unsuccessful,66,parobyte-technologies,What is your company going to make? Please describe your product and what it does or will do.
+Unsuccessful,2,parobyte-technologies,"Where do you live now, and where would the company be based after YC?"
+Unsuccessful,219,parobyte-technologies,"Please tell us about an interesting project, preferably outside of class or work, that two or more of you created together. Include urls if possible."
+Unsuccessful,28,parobyte-technologies,How long have the founders known one another and how did you meet? Have any of the founders not met in person?
+Unsuccessful,1,parobyte-technologies,How many founders are on the team?
+Unsuccessful,1,parobyte-technologies,Which category best applies to your company?
+Unsuccessful,88,parobyte-technologies,How far along are you?
+Unsuccessful,40,parobyte-technologies,How long have each of you been working on this? How much of that has been full-time? Please explain.
+Unsuccessful,1,parobyte-technologies,Are people using your product?
+Unsuccessful,57,parobyte-technologies,"How many active users or customers do you have? If you have some particularly valuable customers, who are they? If you're building hardware, how many units have you shipped?"
+Unsuccessful,1,parobyte-technologies,Do you have revenue?
+Unsuccessful,42,parobyte-technologies,We're interested in your revenue over the last several months. (Not cumulative and not GMV).
+Unsuccessful,67,parobyte-technologies,Anything else you would like us to know regarding your revenue or growth rate?
+Unsuccessful,98,parobyte-technologies,"If you are applying with the same idea as a previous batch, did anything change? If you applied with a different idea, why did you pivot and what did you learn from the last idea?"
+Unsuccessful,1,parobyte-technologies,"If you have already participated or committed to participate in an incubator, ""accelerator"" or ""pre-accelerator"" program, please tell us about it."
+Unsuccessful,348,parobyte-technologies,Why did you pick this idea to work on? Do you have domain expertise in this area? How do you know people need what you're making?
+Unsuccessful,75,parobyte-technologies,What's new about what you're making? What substitutes do people resort to because it doesn't exist yet (or they don't know about it)?
+Unsuccessful,92,parobyte-technologies,"Who are your competitors, and who might become competitors? Who do you fear most?"
+Unsuccessful,282,parobyte-technologies,What do you understand about your business that other companies in it just don't get?
+Unsuccessful,90,parobyte-technologies,How do or will you make money? How much could you make?
+Unsuccessful,116,parobyte-technologies,"How will you get users? If your idea is the type that faces a chicken-and-egg problem in the sense that it won't be attractive to users till it has a lot of users (e.g. a marketplace, a dating site, an ad network), how will you overcome that?"
+Unsuccessful,1,parobyte-technologies,"Have you incorporated, or formed any legal entity (like an LLC) yet?"
+Unsuccessful,3,parobyte-technologies,What kind of entity and in what state or country was the entity formed?
+Unsuccessful,6,parobyte-technologies,"Please describe the breakdown of the equity ownership in percentages among the founders, employees and any other stockholders. If there are multiple founders, be sure to give the equity ownership of each founder."
+Unsuccessful,1,parobyte-technologies,Please provide any other relevant information about the structure or formation of the company.
+Unsuccessful,1,parobyte-technologies,"Are any of the founders covered by noncompetes or intellectual property agreements that overlap with your project? If so, please explain."
+Unsuccessful,7,parobyte-technologies,"Who writes code, or does other technical work on your product? Was any of it done by a non-founder? Please explain."
+Unsuccessful,1,parobyte-technologies,Is there anything else we should know about your company?
+Unsuccessful,54,parobyte-technologies,"If you had any other ideas you considered applying with, please list them. One may be something we've been waiting for. Often when we fund people it's to do something they list here and not in the main application."
+Unsuccessful,142,parobyte-technologies,Please tell us something surprising or amusing that one of you has discovered.
+Unsuccessful,52,parobyte-technologies,What convinced you to apply to Y Combinator? Did someone encourage you to apply?
+Unsuccessful,11,parobyte-technologies,How did you hear about Y Combinator?
+Unsuccessful,0,pmalerts,"If you have a demo, what's the url? Demo can be anything that shows us how the product works. Usually that's a video or screen recording."
+Unsuccessful,13,pmalerts,Describe what your company does in 50 characters or less.
+Unsuccessful,109,pmalerts,What is your company going to make? Please describe your product and what it does or will do.
+Unsuccessful,1,pmalerts,Please enter the url of a 1 minute unlisted (not private) YouTube video introducing the founder(s). This video is an important part of the application. (Follow the Video Guidelines.)
+Unsuccessful,69,pmalerts,Please tell us in one or two sentences about something impressive that each founder has built or achieved.
+Unsuccessful,34,pmalerts,How far along are you?
+Unsuccessful,32,pmalerts,How long have each of you been working on this? How much of that has been full-time? Please explain.
+Unsuccessful,42,pmalerts,"How many active users or customers do you have? If you have some particularly valuable customers, who are they? If you're building hardware, how many units have you shipped?"
+Unsuccessful,56,pmalerts,Anything else you would like us to know regarding your revenue or growth rate?
+Unsuccessful,272,pmalerts,"If you are applying with the same idea as a previous batch, did anything change? If you applied with a different idea, why did you pivot and what did you learn from the last idea?"
+Unsuccessful,243,pmalerts,Why did you pick this idea to work on? Do you have domain expertise in this area? How do you know people need what you're making?
+Unsuccessful,46,pmalerts,What's new about what you're making? What substitutes do people resort to because it doesn't exist yet (or they don't know about it)?
+Unsuccessful,96,pmalerts,"Who are your competitors, and who might become competitors? Who do you fear most?"
+Unsuccessful,448,pmalerts,What do you understand about your business that other companies in it just don't get?
+Unsuccessful,170,pmalerts,How do or will you make money? How much could you make?
+Unsuccessful,280,pmalerts,"How will you get users? If your idea is the type that faces a chicken-and-egg problem in the sense that it won't be attractive to users till it has a lot of users (e.g. a marketplace, a dating site, an ad network), how will you overcome that?"
+Unsuccessful,494,pmalerts,"If you had any other ideas you considered applying with, please list them. One may be something we've been waiting for. Often when we fund people it's to do something they list here and not in the main application."
+Unsuccessful,19,pmalerts,Please tell us something surprising or amusing that one of you has discovered.
+Unsuccessful,1,bubblin-superbooks,"If you have a demo, what's the url? Demo can be anything that shows us how the product works. Usually that's a video or screen recording."
+Unsuccessful,6,bubblin-superbooks,Describe what your company does in 50 characters or less.
+Unsuccessful,38,bubblin-superbooks,What is your company going to make? Please describe your product and what it does or will do.
+Unsuccessful,5,bubblin-superbooks,"Where do you live now, and where would the company be based after YC?"
+Unsuccessful,65,bubblin-superbooks,"Please tell us about an interesting project, preferably outside of class or work, that two or more of you created together. Include urls if possible."
+Unsuccessful,12,bubblin-superbooks,How long have the founders known one another and how did you meet? Have any of the founders not met in person?
+Unsuccessful,1,bubblin-superbooks,Which category best applies to your company?
+Unsuccessful,1,bubblin-superbooks,Is this application in response to a YC RFS?
+Unsuccessful,96,bubblin-superbooks,How far along are you?
+Unsuccessful,20,bubblin-superbooks,How long have each of you been working on this? How much of that has been full-time? Please explain.
+Unsuccessful,2,bubblin-superbooks,Which of the following best describes your progress?
+Unsuccessful,75,bubblin-superbooks,"How many active users or customers do you have? If you have some particularly valuable customers, who are they? If you're building hardware, how many units have you shipped?"
+Unsuccessful,1,bubblin-superbooks,Do you have revenue?
+Unsuccessful,22,bubblin-superbooks,What is your monthly growth rate?
+Unsuccessful,99,bubblin-superbooks,"If you are applying with the same idea as a previous batch, did anything change? If you applied with a different idea, why did you pivot and what did you learn from the last idea?"
+Unsuccessful,10,bubblin-superbooks,"If you have already participated or committed to participate in an incubator, ""accelerator"" or ""pre-accelerator"" program, please tell us about it."
+Unsuccessful,101,bubblin-superbooks,Why did you pick this idea to work on? Do you have domain expertise in this area? How do you know people need what you're making?
+Unsuccessful,96,bubblin-superbooks,What's new about what you're making? What substitutes do people resort to because it doesn't exist yet (or they don't know about it)?
+Unsuccessful,108,bubblin-superbooks,"Who are your competitors, and who might become competitors? Who do you fear most?"
+Unsuccessful,137,bubblin-superbooks,"How will you get users? If your idea is the type that faces a chicken-and-egg problem in the sense that it won't be attractive to users till it has a lot of users (e.g. a marketplace, a dating site, an ad network), how will you overcome that?"
+Unsuccessful,2,bubblin-superbooks,How long is your runway?
+Unsuccessful,9,bubblin-superbooks,"Who writes code, or does other technical work on your product? Was any of it done by a non-founder? Please explain."
+Unsuccessful,2,bubblin-superbooks,Is there anything else we should know about your company?
+Unsuccessful,46,bubblin-superbooks,"If you had any other ideas you considered applying with, please list them. One may be something we've been waiting for. Often when we fund people it's to do something they list here and not in the main application."
+Unsuccessful,82,bubblin-superbooks,Please tell us something surprising or amusing that one of you has discovered.
+Unsuccessful,27,bubblin-superbooks,What convinced you to apply to Y Combinator? Did someone encourage you to apply?
+Unsuccessful,2,bubblin-superbooks,How did you hear about Y Combinator?
+Unsuccessful,1,simula,"If you have a demo, what's the url? Demo can be anything that shows us how the product works. Usually that's a video or screen recording."
+Unsuccessful,7,simula,Describe what your company does in 50 characters or less.
+Unsuccessful,375,simula,What is your company going to make? Please describe your product and what it does or will do.
+Unsuccessful,5,simula,"Where do you live now, and where would the company be based after YC?"
+Unsuccessful,0,simula,Please enter the url of a 1 minute unlisted (not private) YouTube video introducing the founder(s). This video is an important part of the application. (Follow the Video Guidelines.)
+Unsuccessful,33,simula,"Please tell us about an interesting project, preferably outside of class or work, that two or more of you created together. Include urls if possible."
+Unsuccessful,2,simula,Which category best applies to your company?
+Unsuccessful,1,simula,Is this application in response to a YC RFS?
+Unsuccessful,3,simula,"If yes, which one?"
+Unsuccessful,140,simula,How far along are you?
+Unsuccessful,1,simula,Which of the following best describes your progress?
+Unsuccessful,130,simula,"How many active users or customers do you have? If you have some particularly valuable customers, who are they? If you're building hardware, how many units have you shipped?"
+Unsuccessful,1,simula,Do you have revenue?
+Unsuccessful,1,simula,Anything else you would like us to know regarding your revenue or growth rate?
+Unsuccessful,194,simula,"If you are applying with the same idea as a previous batch, did anything change? If you applied with a different idea, why did you pivot and what did you learn from the last idea?"
+Unsuccessful,1,simula,"If you have already participated or committed to participate in an incubator, ""accelerator"" or ""pre-accelerator"" program, please tell us about it."
+Unsuccessful,254,simula,Why did you pick this idea to work on? Do you have domain expertise in this area? How do you know people need what you're making?
+Unsuccessful,43,simula,What's new about what you're making? What substitutes do people resort to because it doesn't exist yet (or they don't know about it)?
+Unsuccessful,329,simula,"Who are your competitors, and who might become competitors? Who do you fear most?"
+Unsuccessful,197,simula,What do you understand about your business that other companies in it just don't get?
+Unsuccessful,185,simula,How do or will you make money? How much could you make?
+Unsuccessful,135,simula,"How will you get users? If your idea is the type that faces a chicken-and-egg problem in the sense that it won't be attractive to users till it has a lot of users (e.g. a marketplace, a dating site, an ad network), how will you overcome that?"
+Unsuccessful,1,simula,"Have you incorporated, or formed any legal entity (like an LLC) yet?"
+Unsuccessful,1,simula,How much money do you spend per month?
+Unsuccessful,1,simula,How much money does your company have in the bank now?
+Unsuccessful,2,simula,How long is your runway?
+Unsuccessful,1,simula,Please provide any other relevant information about the structure or formation of the company.
+Unsuccessful,1,simula,"Are any of the founders covered by noncompetes or intellectual property agreements that overlap with your project? If so, please explain."
+Unsuccessful,1,simula,Is there anything else we should know about your company?
+Unsuccessful,56,simula,Please tell us something surprising or amusing that one of you has discovered.
+Unsuccessful,42,simula,What convinced you to apply to Y Combinator? Did someone encourage you to apply?
+Unsuccessful,3,simula,How did you hear about Y Combinator?
+Unsuccessful,7,streamplate,Describe what your company does in 50 characters or less.
+Unsuccessful,142,streamplate,What is your company going to make? Please describe your product and what it does or will do.
+Unsuccessful,2,streamplate,"Where do you live now, and where would the company be based after YC?"
+Unsuccessful,1,streamplate,How many founders are on the team?
+Unsuccessful,1,streamplate,Do any founders have other commitments between X and Y inclusive?
+Unsuccessful,23,streamplate,"Do any founders have commitments in the future (e.g. finishing college, going to grad school), and if so what?"
+Unsuccessful,1,streamplate,Which category best applies to your company?
+Unsuccessful,38,streamplate,How far along are you?
+Unsuccessful,72,streamplate,How long have each of you been working on this? How much of that has been full-time? Please explain.
+Unsuccessful,1,streamplate,Are people using your product?
+Unsuccessful,3,streamplate,When will you have a prototype or beta?
+Unsuccessful,1,streamplate,Do you have revenue?
+Unsuccessful,73,streamplate,"If you are applying with the same idea as a previous batch, did anything change? If you applied with a different idea, why did you pivot and what did you learn from the last idea?"
+Unsuccessful,1,streamplate,"If you have already participated or committed to participate in an incubator, ""accelerator"" or ""pre-accelerator"" program, please tell us about it."
+Unsuccessful,129,streamplate,Why did you pick this idea to work on? Do you have domain expertise in this area? How do you know people need what you're making?
+Unsuccessful,198,streamplate,What's new about what you're making? What substitutes do people resort to because it doesn't exist yet (or they don't know about it)?
+Unsuccessful,116,streamplate,"Who are your competitors, and who might become competitors? Who do you fear most?"
+Unsuccessful,89,streamplate,How do or will you make money? How much could you make?
+Unsuccessful,167,streamplate,"How will you get users? If your idea is the type that faces a chicken-and-egg problem in the sense that it won't be attractive to users till it has a lot of users (e.g. a marketplace, a dating site, an ad network), how will you overcome that?"
+Unsuccessful,1,streamplate,"Have you incorporated, or formed any legal entity (like an LLC) yet?"
+Unsuccessful,4,streamplate,What kind of entity and in what state or country was the entity formed?
+Unsuccessful,1,streamplate,"Are any of the founders covered by noncompetes or intellectual property agreements that overlap with your project? If so, please explain."
+Unsuccessful,16,streamplate,"Who writes code, or does other technical work on your product? Was any of it done by a non-founder? Please explain."
+Unsuccessful,1,streamplate,Is there anything else we should know about your company?
+Unsuccessful,208,streamplate,"If you had any other ideas you considered applying with, please list them. One may be something we've been waiting for. Often when we fund people it's to do something they list here and not in the main application."
+Unsuccessful,25,streamplate,Please tell us something surprising or amusing that one of you has discovered.
+Unsuccessful,1,buffer,"If you have a demo, what's the url? Demo can be anything that shows us how the product works. Usually that's a video or screen recording."
+Unsuccessful,68,buffer,What is your company going to make? Please describe your product and what it does or will do.
+Unsuccessful,23,buffer,"Where do you live now, and where would the company be based after YC?"
+Unsuccessful,7,buffer,"Please tell us about an interesting project, preferably outside of class or work, that two or more of you created together. Include urls if possible."
+Unsuccessful,79,buffer,Please tell us in one or two sentences about something impressive that each founder has built or achieved.
+Unsuccessful,56,buffer,Please tell us about the time you most successfully hacked some (non-computer) system to your advantage.
+Unsuccessful,20,buffer,How long have the founders known one another and how did you meet? Have any of the founders not met in person?
+Unsuccessful,1,buffer,"If we fund you, which of the founders will commit to working exclusively (no school, no other jobs) on this project for the next year?"
+Unsuccessful,9,buffer,Do any founders have other commitments between X and Y inclusive?
+Unsuccessful,20,buffer,"Do any founders have commitments in the future (e.g. finishing college, going to grad school), and if so what?"
+Unsuccessful,20,buffer,How long have each of you been working on this? How much of that has been full-time? Please explain.
+Unsuccessful,33,buffer,What is your monthly growth rate?
+Unsuccessful,44,buffer,Why did you pick this idea to work on? Do you have domain expertise in this area? How do you know people need what you're making?
+Unsuccessful,94,buffer,What's new about what you're making? What substitutes do people resort to because it doesn't exist yet (or they don't know about it)?
+Unsuccessful,53,buffer,"Who are your competitors, and who might become competitors? Who do you fear most?"
+Unsuccessful,51,buffer,What do you understand about your business that other companies in it just don't get?
+Unsuccessful,68,buffer,How do or will you make money? How much could you make?
+Unsuccessful,36,buffer,"How will you get users? If your idea is the type that faces a chicken-and-egg problem in the sense that it won't be attractive to users till it has a lot of users (e.g. a marketplace, a dating site, an ad network), how will you overcome that?"
+Unsuccessful,11,buffer,"Please describe the breakdown of the equity ownership in percentages among the founders, employees and any other stockholders. If there are multiple founders, be sure to give the equity ownership of each founder."
+Unsuccessful,83,buffer,Please tell us something surprising or amusing that one of you has discovered.
+Unsuccessful,0,learn-venue,"If you have a demo, what's the url? Demo can be anything that shows us how the product works. Usually that's a video or screen recording."
+Unsuccessful,6,learn-venue,Describe what your company does in 50 characters or less.
+Unsuccessful,98,learn-venue,What is your company going to make? Please describe your product and what it does or will do.
+Unsuccessful,7,learn-venue,"Where do you live now, and where would the company be based after YC?"
+Unsuccessful,1,learn-venue,Please enter the url of a 1 minute unlisted (not private) YouTube video introducing the founder(s). This video is an important part of the application. (Follow the Video Guidelines.)
+Unsuccessful,178,learn-venue,"Please tell us about an interesting project, preferably outside of class or work, that two or more of you created together. Include urls if possible."
+Unsuccessful,144,learn-venue,Please tell us in one or two sentences about something impressive that each founder has built or achieved.
+Unsuccessful,295,learn-venue,Please tell us about the time you most successfully hacked some (non-computer) system to your advantage.
+Unsuccessful,100,learn-venue,How long have the founders known one another and how did you meet? Have any of the founders not met in person?
+Unsuccessful,2,learn-venue,Which category best applies to your company?
+Unsuccessful,1,learn-venue,Is this application in response to a YC RFS?
+Unsuccessful,1,learn-venue,"If yes, which one?"
+Unsuccessful,34,learn-venue,How far along are you?
+Unsuccessful,71,learn-venue,How long have each of you been working on this? How much of that has been full-time? Please explain.
+Unsuccessful,2,learn-venue,Which of the following best describes your progress?
+Unsuccessful,31,learn-venue,"How many active users or customers do you have? If you have some particularly valuable customers, who are they? If you're building hardware, how many units have you shipped?"
+Unsuccessful,1,learn-venue,Do you have revenue?
+Unsuccessful,1,learn-venue,"If you are applying with the same idea as a previous batch, did anything change? If you applied with a different idea, why did you pivot and what did you learn from the last idea?"
+Unsuccessful,1,learn-venue,"If you have already participated or committed to participate in an incubator, ""accelerator"" or ""pre-accelerator"" program, please tell us about it."
+Unsuccessful,195,learn-venue,Why did you pick this idea to work on? Do you have domain expertise in this area? How do you know people need what you're making?
+Unsuccessful,177,learn-venue,What's new about what you're making? What substitutes do people resort to because it doesn't exist yet (or they don't know about it)?
+Unsuccessful,76,learn-venue,"Who are your competitors, and who might become competitors? Who do you fear most?"
+Unsuccessful,159,learn-venue,What do you understand about your business that other companies in it just don't get?
+Unsuccessful,45,learn-venue,How do or will you make money? How much could you make?
+Unsuccessful,17,learn-venue,"How will you get users? If your idea is the type that faces a chicken-and-egg problem in the sense that it won't be attractive to users till it has a lot of users (e.g. a marketplace, a dating site, an ad network), how will you overcome that?"
+Unsuccessful,1,learn-venue,"Have you incorporated, or formed any legal entity (like an LLC) yet?"
+Unsuccessful,1,learn-venue,How much money do you spend per month?
+Unsuccessful,1,learn-venue,How much money does your company have in the bank now?
+Unsuccessful,2,learn-venue,How long is your runway?
+Unsuccessful,1,learn-venue,Please provide any other relevant information about the structure or formation of the company.
+Unsuccessful,34,learn-venue,"Are any of the founders covered by noncompetes or intellectual property agreements that overlap with your project? If so, please explain."
+Unsuccessful,20,learn-venue,Is there anything else we should know about your company?
+Unsuccessful,148,learn-venue,"If you had any other ideas you considered applying with, please list them. One may be something we've been waiting for. Often when we fund people it's to do something they list here and not in the main application."
+Unsuccessful,45,learn-venue,Please tell us something surprising or amusing that one of you has discovered.
+Unsuccessful,117,learn-venue,What convinced you to apply to Y Combinator? Did someone encourage you to apply?
+Unsuccessful,11,learn-venue,How did you hear about Y Combinator?
+Unsuccessful,4,syllble,Describe what your company does in 50 characters or less.
+Unsuccessful,41,syllble,What is your company going to make? Please describe your product and what it does or will do.
+Unsuccessful,2,syllble,"Where do you live now, and where would the company be based after YC?"
+Unsuccessful,1,syllble,Please enter the url of a 1 minute unlisted (not private) YouTube video introducing the founder(s). This video is an important part of the application. (Follow the Video Guidelines.)
+Unsuccessful,1,syllble,"Please tell us about an interesting project, preferably outside of class or work, that two or more of you created together. Include urls if possible."
+Unsuccessful,25,syllble,How long have the founders known one another and how did you meet? Have any of the founders not met in person?
+Unsuccessful,1,syllble,Which category best applies to your company?
+Unsuccessful,1,syllble,Is this application in response to a YC RFS?
+Unsuccessful,35,syllble,How far along are you?
+Unsuccessful,23,syllble,How long have each of you been working on this? How much of that has been full-time? Please explain.
+Unsuccessful,2,syllble,Which of the following best describes your progress?
+Unsuccessful,44,syllble,"How many active users or customers do you have? If you have some particularly valuable customers, who are they? If you're building hardware, how many units have you shipped?"
+Unsuccessful,1,syllble,Do you have revenue?
+Unsuccessful,1,syllble,Anything else you would like us to know regarding your revenue or growth rate?
+Unsuccessful,1,syllble,"If you are applying with the same idea as a previous batch, did anything change? If you applied with a different idea, why did you pivot and what did you learn from the last idea?"
+Unsuccessful,1,syllble,"If you have already participated or committed to participate in an incubator, ""accelerator"" or ""pre-accelerator"" program, please tell us about it."
+Unsuccessful,271,syllble,Why did you pick this idea to work on? Do you have domain expertise in this area? How do you know people need what you're making?
+Unsuccessful,278,syllble,What's new about what you're making? What substitutes do people resort to because it doesn't exist yet (or they don't know about it)?
+Unsuccessful,5,syllble,"Who are your competitors, and who might become competitors? Who do you fear most?"
+Unsuccessful,59,syllble,What do you understand about your business that other companies in it just don't get?
+Unsuccessful,90,syllble,How do or will you make money? How much could you make?
+Unsuccessful,47,syllble,"How will you get users? If your idea is the type that faces a chicken-and-egg problem in the sense that it won't be attractive to users till it has a lot of users (e.g. a marketplace, a dating site, an ad network), how will you overcome that?"
+Unsuccessful,1,syllble,"Have you incorporated, or formed any legal entity (like an LLC) yet?"
+Unsuccessful,1,syllble,How long is your runway?
+Unsuccessful,8,syllble,Please provide any other relevant information about the structure or formation of the company.
+Unsuccessful,1,syllble,"Are any of the founders covered by noncompetes or intellectual property agreements that overlap with your project? If so, please explain."
+Unsuccessful,1,syllble,"Who writes code, or does other technical work on your product? Was any of it done by a non-founder? Please explain."
+Unsuccessful,1,syllble,Is there anything else we should know about your company?
+Unsuccessful,1,syllble,"If you had any other ideas you considered applying with, please list them. One may be something we've been waiting for. Often when we fund people it's to do something they list here and not in the main application."
+Unsuccessful,70,syllble,Please tell us something surprising or amusing that one of you has discovered.
+Unsuccessful,46,syllble,What convinced you to apply to Y Combinator? Did someone encourage you to apply?
+Unsuccessful,17,syllble,How did you hear about Y Combinator?
+Unsuccessful,6,pic-ur-photo,Describe what your company does in 50 characters or less.
+Unsuccessful,153,pic-ur-photo,What is your company going to make? Please describe your product and what it does or will do.
+Unsuccessful,3,pic-ur-photo,"Where do you live now, and where would the company be based after YC?"
+Unsuccessful,0,pic-ur-photo,Please enter the url of a 1 minute unlisted (not private) YouTube video introducing the founder(s). This video is an important part of the application. (Follow the Video Guidelines.)
+Unsuccessful,131,pic-ur-photo,"Please tell us about an interesting project, preferably outside of class or work, that two or more of you created together. Include urls if possible."
+Unsuccessful,84,pic-ur-photo,How long have the founders known one another and how did you meet? Have any of the founders not met in person?
+Unsuccessful,1,pic-ur-photo,Which category best applies to your company?
+Unsuccessful,191,pic-ur-photo,How far along are you?
+Unsuccessful,23,pic-ur-photo,How long have each of you been working on this? How much of that has been full-time? Please explain.
+Unsuccessful,1,pic-ur-photo,Are people using your product?
+Unsuccessful,30,pic-ur-photo,"How many active users or customers do you have? If you have some particularly valuable customers, who are they? If you're building hardware, how many units have you shipped?"
+Unsuccessful,207,pic-ur-photo,"If you are applying with the same idea as a previous batch, did anything change? If you applied with a different idea, why did you pivot and what did you learn from the last idea?"
+Unsuccessful,248,pic-ur-photo,Why did you pick this idea to work on? Do you have domain expertise in this area? How do you know people need what you're making?
+Unsuccessful,335,pic-ur-photo,What's new about what you're making? What substitutes do people resort to because it doesn't exist yet (or they don't know about it)?
+Unsuccessful,57,pic-ur-photo,"Who are your competitors, and who might become competitors? Who do you fear most?"
+Unsuccessful,321,pic-ur-photo,What do you understand about your business that other companies in it just don't get?
+Unsuccessful,133,pic-ur-photo,How do or will you make money? How much could you make?
+Unsuccessful,259,pic-ur-photo,"How will you get users? If your idea is the type that faces a chicken-and-egg problem in the sense that it won't be attractive to users till it has a lot of users (e.g. a marketplace, a dating site, an ad network), how will you overcome that?"
+Unsuccessful,5,pic-ur-photo,"Who writes code, or does other technical work on your product? Was any of it done by a non-founder? Please explain."
+Unsuccessful,9,pic-ur-photo,"If you had any other ideas you considered applying with, please list them. One may be something we've been waiting for. Often when we fund people it's to do something they list here and not in the main application."
+Unsuccessful,70,pic-ur-photo,Please tell us something surprising or amusing that one of you has discovered.
+Unsuccessful,48,pic-ur-photo,What convinced you to apply to Y Combinator? Did someone encourage you to apply?
+Unsuccessful,5,pic-ur-photo,How did you hear about Y Combinator?
+Unsuccessful,1,cred-count,"If you have a demo, what's the url? Demo can be anything that shows us how the product works. Usually that's a video or screen recording."
+Unsuccessful,8,cred-count,Describe what your company does in 50 characters or less.
+Unsuccessful,19,cred-count,What is your company going to make? Please describe your product and what it does or will do.
+Unsuccessful,11,cred-count,"Where do you live now, and where would the company be based after YC?"
+Unsuccessful,0,cred-count,Please enter the url of a 1 minute unlisted (not private) YouTube video introducing the founder(s). This video is an important part of the application. (Follow the Video Guidelines.)
+Unsuccessful,211,cred-count,"Please tell us about an interesting project, preferably outside of class or work, that two or more of you created together. Include urls if possible."
+Unsuccessful,2,cred-count,Which category best applies to your company?
+Unsuccessful,1,cred-count,Is this application in response to a YC RFS?
+Unsuccessful,1,cred-count,"If yes, which one?"
+Unsuccessful,506,cred-count,How far along are you?
+Unsuccessful,1,cred-count,Which of the following best describes your progress?
+Unsuccessful,1,cred-count,"How many active users or customers do you have? If you have some particularly valuable customers, who are they? If you're building hardware, how many units have you shipped?"
+Unsuccessful,1,cred-count,When will you have a prototype or beta?
+Unsuccessful,1,cred-count,Do you have revenue?
+Unsuccessful,1,cred-count,We're interested in your revenue over the last several months. (Not cumulative and not GMV).
+Unsuccessful,1,cred-count,Anything else you would like us to know regarding your revenue or growth rate?
+Unsuccessful,1,cred-count,"If you are applying with the same idea as a previous batch, did anything change? If you applied with a different idea, why did you pivot and what did you learn from the last idea?"
+Unsuccessful,1,cred-count,"If you have already participated or committed to participate in an incubator, ""accelerator"" or ""pre-accelerator"" program, please tell us about it."
+Unsuccessful,283,cred-count,Why did you pick this idea to work on? Do you have domain expertise in this area? How do you know people need what you're making?
+Unsuccessful,71,cred-count,What's new about what you're making? What substitutes do people resort to because it doesn't exist yet (or they don't know about it)?
+Unsuccessful,118,cred-count,"Who are your competitors, and who might become competitors? Who do you fear most?"
+Unsuccessful,86,cred-count,What do you understand about your business that other companies in it just don't get?
+Unsuccessful,83,cred-count,How do or will you make money? How much could you make?
+Unsuccessful,100,cred-count,"How will you get users? If your idea is the type that faces a chicken-and-egg problem in the sense that it won't be attractive to users till it has a lot of users (e.g. a marketplace, a dating site, an ad network), how will you overcome that?"
+Unsuccessful,1,cred-count,"Have you incorporated, or formed any legal entity (like an LLC) yet?"
+Unsuccessful,1,cred-count,What kind of entity and in what state or country was the entity formed?
+Unsuccessful,1,cred-count,"Please describe the breakdown of the equity ownership in percentages among the founders, employees and any other stockholders. If there are multiple founders, be sure to give the equity ownership of each founder."
+Unsuccessful,1,cred-count,"List any investments your company has received. Include the name of the investor, the amount invested, the premoney valuation / valuation cap, and the type of security sold (convertible notes, safes or stock)."
+Unsuccessful,1,cred-count,How much money do you spend per month?
+Unsuccessful,1,cred-count,How much money does your company have in the bank now?
+Unsuccessful,19,cred-count,How long is your runway?
+Unsuccessful,56,cred-count,Please provide any other relevant information about the structure or formation of the company.
+Unsuccessful,1,cred-count,"Are any of the founders covered by noncompetes or intellectual property agreements that overlap with your project? If so, please explain."
+Unsuccessful,85,cred-count,"Who writes code, or does other technical work on your product? Was any of it done by a non-founder? Please explain."
+Unsuccessful,68,cred-count,Is there anything else we should know about your company?
+Unsuccessful,251,cred-count,"If you had any other ideas you considered applying with, please list them. One may be something we've been waiting for. Often when we fund people it's to do something they list here and not in the main application."
+Unsuccessful,51,cred-count,Please tell us something surprising or amusing that one of you has discovered.
+Unsuccessful,45,cred-count,What convinced you to apply to Y Combinator? Did someone encourage you to apply?
+Unsuccessful,4,cred-count,How did you hear about Y Combinator?
+Unsuccessful,1,veed,"If you have a demo, what's the url? Demo can be anything that shows us how the product works. Usually that's a video or screen recording."
+Unsuccessful,4,veed,Describe what your company does in 50 characters or less.
+Unsuccessful,122,veed,What is your company going to make? Please describe your product and what it does or will do.
+Unsuccessful,8,veed,"Where do you live now, and where would the company be based after YC?"
+Unsuccessful,0,veed,Please enter the url of a 1 minute unlisted (not private) YouTube video introducing the founder(s). This video is an important part of the application. (Follow the Video Guidelines.)
+Unsuccessful,152,veed,"Please tell us about an interesting project, preferably outside of class or work, that two or more of you created together. Include urls if possible."
+Unsuccessful,109,veed,How long have the founders known one another and how did you meet? Have any of the founders not met in person?
+Unsuccessful,1,veed,Which category best applies to your company?
+Unsuccessful,30,veed,How far along are you?
+Unsuccessful,123,veed,How long have each of you been working on this? How much of that has been full-time? Please explain.
+Unsuccessful,1,veed,Are people using your product?
+Unsuccessful,1,veed,Do you have revenue?
+Unsuccessful,16,veed,Anything else you would like us to know regarding your revenue or growth rate?
+Unsuccessful,54,veed,"If you are applying with the same idea as a previous batch, did anything change? If you applied with a different idea, why did you pivot and what did you learn from the last idea?"
+Unsuccessful,101,veed,"If you have already participated or committed to participate in an incubator, ""accelerator"" or ""pre-accelerator"" program, please tell us about it."
+Unsuccessful,108,veed,Why did you pick this idea to work on? Do you have domain expertise in this area? How do you know people need what you're making?
+Unsuccessful,80,veed,What's new about what you're making? What substitutes do people resort to because it doesn't exist yet (or they don't know about it)?
+Unsuccessful,37,veed,"Who are your competitors, and who might become competitors? Who do you fear most?"
+Unsuccessful,39,veed,What do you understand about your business that other companies in it just don't get?
+Unsuccessful,95,veed,How do or will you make money? How much could you make?
+Unsuccessful,63,veed,"How will you get users? If your idea is the type that faces a chicken-and-egg problem in the sense that it won't be attractive to users till it has a lot of users (e.g. a marketplace, a dating site, an ad network), how will you overcome that?"
+Unsuccessful,1,veed,"Have you incorporated, or formed any legal entity (like an LLC) yet?"
+Unsuccessful,4,veed,What kind of entity and in what state or country was the entity formed?
+Unsuccessful,36,veed,"Please describe the breakdown of the equity ownership in percentages among the founders, employees and any other stockholders. If there are multiple founders, be sure to give the equity ownership of each founder."
+Unsuccessful,1,veed,Have you taken any investment yet?
+Unsuccessful,1,veed,"Are any of the founders covered by noncompetes or intellectual property agreements that overlap with your project? If so, please explain."
+Unsuccessful,43,veed,"Who writes code, or does other technical work on your product? Was any of it done by a non-founder? Please explain."
+Unsuccessful,11,veed,Is there anything else we should know about your company?
+Unsuccessful,36,veed,"If you had any other ideas you considered applying with, please list them. One may be something we've been waiting for. Often when we fund people it's to do something they list here and not in the main application."
+Unsuccessful,19,veed,Please tell us something surprising or amusing that one of you has discovered.
+Unsuccessful,20,veed,What convinced you to apply to Y Combinator? Did someone encourage you to apply?
+Unsuccessful,14,veed,How did you hear about Y Combinator?
